@@ -4,7 +4,7 @@ import java.io.File
 import java.io.InputStream
 import java.util.LinkedList
 
-fun echo(stream: InputStream) {
+fun echo(prefix: String, stream: InputStream) {
     val buffer = LinkedList<Byte>()
 
     while (true) {
@@ -13,9 +13,9 @@ fun echo(stream: InputStream) {
         buffer.add(symbol.toByte())
 
     }
-    println(String(buffer.toByteArray()))
+    println(prefix + String(buffer.toByteArray()))
 }
 
 fun main(args: Array<String>) {
-    echo(File(args[0]).inputStream())
+    echo("ANSWER", File(args[0]).inputStream())
 }
