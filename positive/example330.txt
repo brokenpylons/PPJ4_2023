@@ -1,21 +1,22 @@
- for Aeeacteta := 1 to -iaeii do
-    for Hegah := 1 to 00 - 1 do
- FOeCl :=M * MOkgE
-    done
-done;
-  for itiglt := FCeg + 1 to 10 do
- WRITE 10
+ for ( FAitc := 1 * 103 to Aigvit ) begin
+            
+CONSOLE 1;
+    faSvh :=sregc;
+  CONSOLE MCit - AigS * HekSc;
+ 
+iCRCRt := 1
+ 
+end;
+      
+MCRCclota := 12;
+ CONSOLE 1 | MaSOl;
+  AOSa := 123 + 00;
+              itR:= faCaEt;
+      for (iaet := #ffAB to 1) begin
     
-done;
-  
-for Hreuclota:=0 to AakCh do
-Atk:=irCSite;
-  i :=00 * 0 - MrSgi;
-          for srdui:=Htei + F + itSChto to 1 do
-     
-Arkvlteta:=faivEtota * Wikvi
-      
-done
+AeSu:=-AOka | -AaeS;
+MOeOh :=iekvh;
+       
+CONSOLE 0
+     end
 
-done
-      

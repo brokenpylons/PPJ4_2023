@@ -1,9 +1,8 @@
- for Mtd :=0 + 1 to 1 * 00 + 0 do
-           FOduit:= 0
-  done;
-Makahteta:=+1;
-
-faiSc:=fadai;
+for (fag := ArgOE * MCRah to 123 - 023) begin
+     
+fakvRt :=MOCC + 10 - 1;
+    CONSOLE fadgcte
+          end;
  
-itktltota:=-sCegcto * 0
-   
+COLCc :=0
+ 

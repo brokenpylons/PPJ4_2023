@@ -1,17 +1,16 @@
-fag := Mtevhlota;
-jmeulte :=fakS
+ for ( i :=#ffAf to 1 ) begin
+       sadC:= svSgi;
+     MtigE -(1);
 
-WRITE 10;
-
-nvka:= n + Widail;
- Hedui:= 0;
-  for iaStclota:=(-00 + Amgah ) to 1 * AAeuh do
-
-Hteaclota:=0 * faCic;
-    WRITE 10
-            
-done;
-nACt:=aAetito;
-    F := (10 )
-  WRITE 1
+for Me :=jeiCR to -1 ) begin
+ faeSh := 003;
+M:=#10AB
+       end
+ end;
+      for MeeOc := nn to 1 * H) begin
+      
+ja:= lAe;
+    iORa:=10
   
+end
+          

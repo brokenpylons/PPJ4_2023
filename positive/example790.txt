@@ -1,48 +1,44 @@
-M:= WiSt * sCig;
-  HAdv:= 1;
-for s:= 0 to sekii + FaS - -00 do
-         
-for ArSuEteta :=A to 1 do
-    srkic:=ArCuileta;
- for MOeilt := 0 to MAdvi do
-for F := i to 1 - Heevl do
-   
-MARSit:=-HteaE;
-
-WiSCE:= 10
-      done;
-    
-WiCS :=-0;
-
-Mrivhleta:= HeeCcteta;
-  for Mtiuh :=1 to fagucte do
-    for MreaEteta :=1 + sreiEt to 1 do
- AOit:=MedChlo - 1 * A;
- for AtCgc :=1 to HaSaE do
-      HrCic:=10;
-sOCvh := +10;
-  iakSh :=10 * FAgvE
- done
- done
- done;
-  MOeicteta := -HASSht - 1 * 00 * 10
- done;
-        A:=sAgtcleta;
-Aagul := Ftgv
-   done;
-  WidSllota:= Fadah;
+ AreOR :=-iOR;
+               for (MCRgh :=+A to 12 - F ) begin
+  
+FOeihlota:= M
+  end;
+       
+CONSOLE Mtduit;
           
-WRITE FrCvh;
-  MaRi :=-iakSEt
-done;
+for (ACgOhl := -COLu to faithl ) begin
+ for (itC:= MagOi to HARSl) begin
+for ( MAkac :=1 to WCCShl ) begin
+  F := AAkCE | HCCCh;
+     for (Aakuct:=10 * 1 - WiRSlteta to COLgh ) begin
+     sOgOR:=W
+end;
    
-for Atiuc :=10 * 00 to 0 do
-iAR :=1 - 10 - 1
- done;
-    H:= Mrguil;
-        for WiCth := FOkthl to -1 do
-Hekaitota := s + stRail;
-WRITE 1 * Hegthte
-   done;
-    MACac:= MeCCct
+for (faiCilo:=00 to Mtiv) begin
+  AeSah :=AekOhle;
+   irkC := 02;
+ MOgO:=103;
+    sii:=COLihto - 1
+  end;
+   COLuR:=A;
+ for ( FCRi :=0 to 1) begin
+MCiO:= faRi + MORi - 12;
+ArSClte :=iagC;
+   ArduE:=MeRO * #fffBff * 023 + faSihl
+
+end;
+   for ( Aiiu := AeCSc to COLu) begin
+ CONSOLE 1 & -ACeg | i - Mad
+   end;
+ 
+for ( FigaE:= AtgOc to M * 12 ) begin
+  CONSOLE 1
+end;
+ MAiah:=WeSSc & iaStE;
+ AAgS :=#10fB * 1 + -M
+     end
+      end;
+ s:=103;
+  i:= 003
+       end
    

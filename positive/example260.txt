@@ -1,14 +1,15 @@
- for AteC := -1 to 1 do
-    Fteih:=MCeuEt
-   
-done;
-for MteChto:=+iCSSi + -ieevite to MCkucto do
- HAetiteta:= -Arithte - +Wikvi;
- WRITE 1;
-       AeRthleta:=AOeg + s;
+FaeiRtota:= 003;
+  MCevlle:= 10 + 103 - 12;
+         MAeS := sOCaht;
+  sOi:= 12 & 10 + Aaku * Wigac;
+      HACtE := -02;
+       
+for ( Fiiih:= iAdu to 1) begin
+ 
+for (MtRvE:=FtiOhl to 1) begin
+      itegc := #f0AB;
+CONSOLE -MeSgi
+  end
     
-WRITE 0 * 00
- done;
-              for sreg:=M to -00 * ArSC - sARi do
-      M := 0
-  done
+end;
+   Waeal:= COL

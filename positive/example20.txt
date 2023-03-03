@@ -1,3 +1,2 @@
- H:=iaC;
-WRITE 0 - 1
- 
+ FiR:= sAeiE
+        

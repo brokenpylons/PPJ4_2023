@@ -1,14 +1,13 @@
-for ine:= ( jrk ) to 1 do
-              for FAev:=10 to -lrCgE + 0 do
+ for ( fakgl :=iCeiht to jaeCRend
+COL:= #f0fBff;
+CONSOLE 023;
+          CONSOLE 1 * -#1ffBff
+  end;
+sCgO:=123;
+           M:= Mrd;
 
-HvR:=AmiSh;
-    fa +1 * 10 * i;
-  AtdSit:=(-1 )
-   done;
-       F 1;
-          s:=nOC
-         
-done;
- 
-MOegE:=10
- 
+CONSOLE 103;
+    CONSOLE 10;
+      
+fa := -0 & 0
+    

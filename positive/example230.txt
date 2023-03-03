@@ -1,17 +1,12 @@
- faeS :=s * -1;
-      for Feetlt := 0 to 0 do
-      for Mtdi:= 1 to 1 * 10 do
-        WRITE 1;
-           FOgChle:= 0 * 10
- done
+for ( FAkail:=WAdCi + M to 023) begin
+        COLtcteta:=WaCiR * FAeg;
+ iiRv :=COLac * 1
+end;
+for (Mrighl:=1 to ACeOhto ) begin
+  CONSOLE iagtite * WigCR * 003;
+         CONSOLE sAgSil;
+ CONSOLE 1 * +HOggi
+
+end;
+ CONSOLE Aietc
    
-done;
-
-for FACuEl:= -00 * MOkgl to faRgit do
-WRITE 1;
- M := -Mteuc;
-faSuE:=10
-
-done;
-        sriac:= H
- 

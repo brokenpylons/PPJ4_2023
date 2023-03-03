@@ -1,20 +1,24 @@
- iegiEteta :=-1;
-for stCuh:=10 to +0 * 10 do
- WRITE MCSg + WiRSh;
+ sAguc := COLtc | 103;
+       for (iAdOh := 1 & fakii to COL ) begin
+
+COL:= FtSi;
+    itguhl:=MAgvi * faeCE;
+  for ( irSCh:=12 to fagt) begin
+   
+CONSOLE AtSthte
  
-for MOeuc:= 0 to -1 do
-
-Feggi:= 1 + Feeu;
-   for FaiSltota := 0 * HaCCi to 1 do
-for s := 10 to 10 * HOiiEteta - ACiu * -Wigt do
-    saetE :=1 + MCCSi - 1
- done;
-     WRITE 10 + Wieghl * FtiSht
-  done;
- iaRuE := iCeu;
-   sekgh:= faeCc;
-         Arku:=WiSt;
-      WRITE -10 * +Htegllo
-done
-
-done
+end;
+     sriOhleta:=103;
+ 
+MOS := 103;
+ for ( Wrd := ACSuc to 10) begin
+  CONSOLE 10
+  end;
+for ( COLS :=FaCCR to COLt ) begin
+ 
+H:= COLtR * FCkO
+ end;
+ AtSS:= Mrgvhteta
+end;
+        
+CONSOLE MrCii * 10

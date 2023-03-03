@@ -1,5 +1,4 @@
- for AteCEt 1 to 0 do
+for ( Hv := lveS to 123) end
+  A:= -0 + 103
+    end
  
-nAgt:= faSalteta
-   done
-   

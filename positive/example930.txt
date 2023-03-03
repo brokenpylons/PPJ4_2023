@@ -1,52 +1,52 @@
-for M:= HAkSc to 1 do
-     sadCi:= MCi * 10;
-MtCCl :=10;
-  for sCeg:= MOk to 1 do
-    fakihtota:=fadulteta - MOCv * +1 - 1;
- for iagu:=0 to 1 - 1 do
- AaSuhle := Areic * -1;
-WRITE WigS;
-   sakSll:=1 * 1;
-  WRITE iaeiitota;
-     WieS := 00 * WikuEte;
-for saCul:=-10 to +HeCgEl do
-WRITE -sOe * HrR;
-  for AOgSEto:=-10 - -HOR - 1 to 0 * 1 do
-                         for MCiih := MAdC * FCRa to 0 do
+ seCu:= W - sOCgilota;
+       AAeilt:=#f0fB;
+   siCSl :=#10ffff;
+          MAe:=123 * 0 | Arku + -1;
+ 
+Maeiitota := #ffAfff;
+             
+for ( MASCRto:= HikaEl to 023) begin
+for (M:= -1 - COLvi to 103 - -WtRui ) begin
+ for (iiRSlteta:=1 to M ) begin
+ for ( MOSaht :=COLOc * faSCh to WiRSRt) begin
+          
+CONSOLE irkO * fagvh;
+CONSOLE Arg * Mtea;
+for ( FAStElota:= 1 + HAegh - 1 to MAeuh & HCiuh * 0 * COL ) begin
+ seR:=MASth
+
+end;
      
-for HAkS := 10 * 1 + 1 * 1 to 10 + sCkah do
- 
-Megtl :=1;
-  WRITE 0 * fadtE;
- 
-irgihl := 0
- 
-done
-
-done;
-   ieeaEl:= 1 - HrRiE
-   done;
-     for faSghteta :=-sOCvl to 0 * iAeil * 10 do
-      AtS:= A
-       done;
- 
-for FCCu := Wii to 1 * Maitc + 1 do
-  MCRtEt := 1
+MriOlle :=MakCRto;
+    sAgth :=Haeui + 00 - iARiRteta - AeggE
+   end;
+for ( MAiSht :=1 to 12) begin
+ WOe:=1 + 0 + 123 * 1;
+              
+MedvE:= -WaCvh - -AigCE;
+ MCd:= siCgl * M | 1;
       
-done
-done;
-   sai :=0;
- MtRu :=00;
-    Aeg := -AARuc
-      done;
-    for srCaE:= 10 + 1 - MCRa to 0 do
-  WRITE WikiE + saetil;
- WRITE MOdu;
-    MrCSc := WieCEtota;
-     MrSCiteta := Aeet
-           done
+ACkCE :=Haeiit & 1;
+    faivi:= 1;
+       
+itCS :=MAk & 1 * WAR
+ end
+end;
+  COLihte:=fadaEle;
+       COLOctota:=WAgOc
+end;
+  MeCvhl := -COLOR;
 
-done;
-            HOgiE:=Aagt - 10 * 00
-         done
-   
+CONSOLE H;
+     HreShteta :=AAgtl - seCul;
+ 
+CONSOLE 1;
+Areac:=123 - 10 - M & 10;
+  
+CONSOLE 1
+  
+end;
+  
+Mii :=#f0fB + 1;
+     faCS := COLtc & 1 - +0
+      

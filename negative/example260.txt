@@ -1,10 +1,14 @@
- for M:= (+fabvc * -sCdv - 0 + 1 + ACRvh ) + 0 * 1 + FOgCh to faiCltota do
-  Mnea:=:=+faiC + ( fabv ) * 00 + -1
-done
-  for nCe :=( An + ( -1 + 0 + 1 + AOdvh - ank * Wi * +(0) * leSi * ( WievEteta )) - 0 + -iO + av) to 0 * Mni do
-   Mtb:=00;
- 
-iCbg:= 1
-
-done
+ CONSOLE fagaE;
+ A :=FCggRtota;
   
+CONSOLE COLiR;
+   for (nve := +AvRShleta + ACkO to 10) begin
+
+COLuh := -103;
+      for (Mtgahteta:=1 + #1fffff + 1 + -0 + 103 to 12 + jtSg + COLgh * 1) begin
+  for (fabvh := AeCCh to 023 begin
+       Mie AtkvRt
+   end
+end
+end
+    

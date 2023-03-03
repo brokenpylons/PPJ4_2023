@@ -1,38 +1,25 @@
-for sOSCi:=1 to WiSvht * -1 do
-     WidCh:=00 * sAigi;
-      WRITE 0;
-     iOe :=Aegg;
-for itCgEto:=AeSu to 1 do
-
-for MtSS:=0 - faSi to srev - +faev do
-WidtE:=0 * 10
-   
-done
-      
-done;
-
-iAeal :=ACCtc;
-for Wikah:= faRv to WiiSE do
-for Wikt :=HrSiE + 10 to -10 do
-            for FAithteta :=0 - +Haeu to faiilteta do
+ CONSOLE 103;
+  for ( FAS:=1 to 0 ) begin
+for ( FASSR:=stivl * COLC to HreS) begin
+    FCgtR :=1;
+      for (MiSCh:=#1ffBff * iOivh to Megvhteta + FAeih & 1 ) begin
+CONSOLE AAiuhl
+end;
+for (COLSltota :=1 & 10 to 10 ) begin
+   MiCah := 1
+  end;
+              AeC :=AaeO;
+ Arevh:=023 - saeC;
+   for ( COLS:=003 + AreuE to AOdv * faCOEto - fadahto - HOeal | MOkOito + 1 | -0 + FOiihto - 1 - 10 | 10 + #ffffff * 103 * 003 ) begin
+ iCggil :=MOevR;
+    AASSht :=1;
+   MORSRte:= -iAd
   
-H := HtCt - itCi
-
-done;
-  
-Wiea := ACC
-  done
-  done;
- for FteSit:=AtS to 00 do
-     
-AtdCiteta := faS
- done;
-FAig :=0 * 0 - 1;
-      
-for iCeCE := 1 to -10 do
-                    Aekah := 00;
-AAk:= faStEleta;
-  WRITE +fagah
-   done
-       done
+end
+ end
+   end;
+CONSOLE HiSv;
  
+A :=1;
+     ieev :=+faRih - +srCvRlota
+        

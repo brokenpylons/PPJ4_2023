@@ -1,28 +1,25 @@
- H := -1 - faivhto;
-     for sOegit:=10 - M to iOkCi + 1 do
- 
-AAgtllo:= +00 * HCRa
-        done;
-   for Widt:=0 - 10 - 1 - Wik to 10 + -10 do
-for iORCcteta:= +10 to Wigal do
-
-for WiS := +H to 10 do
- for ArRC:=MaSgE + -1 to -sOkv do
-       
-MOeSEto := MAdt;
- iOiu:= FaRuElota
-  done;
- WRITE fadaltota + +Ftg;
-WRITE iei;
- ieiSltota :=10 * A;
-faitl :=10
-  
-done
-   done;
-
-srd:= +faial - +MOiv
- done;
- WieCile:=WiiS;
-      WRITE AeCgiteta;
-      HAdg:= 0 - 00 * 1 + AOkglte
+ CONSOLE sCRSito;
+MiSg := WtiShl | #10Af;
+  FiiC:= 1 * faRtR;
+       for (WeSull :=123 to 12 + -103) begin
+CONSOLE AreCh
+ end;
+ for ( WCCalt :=1 - 123 to MOg ) begin
+   CONSOLE faeS;
+for (Mieailo:=s to 00 & 12) begin
+ MOdtl := AAC;
+for ( WaRthtota := #f0fB & -10 to COLih * +Hag ) begin
+itiChl := 12;
+FOkClt:= HeSg
+  end;
+  faRCE:=iiRalto
+     
+end;
+for ( AOeaile:= -0 to 1) begin
+             
+Atiuhtota :=sCgiR
+        end
+ end;
+  ArRthteta:=MrCOh;
+      Aievc :=-10
     

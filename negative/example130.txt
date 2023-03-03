@@ -1,11 +1,7 @@
-for nAiahleta:=00 + F to HrRa do
- i :=ind;
-for nAg :=10 to 1 do
-  
-WRITE Wieic
-done;
-Wietc:=:=jneSl;
-          svgSEt :=-+a
-
-done
-     
+COLvl:=:=( nre)
+     COLOh := 1;
+  for ( Mabti:= 123 to 10 * COLvi - WtS + -We begin
+AA :=MmkvR
+end;
+ s:=( Aidille - W )
+         

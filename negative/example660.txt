@@ -1,43 +1,31 @@
-WRITE -(HtbCh) + Argihte --- ( 0 );
+for (HtR:=(1 ) to -1 + fadth + ( 02 + i ) * AOkti ) begin
+ CONSOLE A;
+  for ( ACCuc :=1 to 123begin
+AC := -lve;
+     CONSOLE 1
+     end;;
+fak:= -123;
+     Wtggl:=1 | 023;;
+   M := Wak
+            for ( FACtht := 12 to AvSg) begin
+H:= :=COLvi;
  
-WRITE 1;
-          
-Amdth := Fm;
- nCkuh := Aae
-  nA:=--WibCit - HAiClteta;
-    
-sa:= 1;
-    aaS:=0 * AOgvite;
- WiCi := 1;
-          for Avgah := -MniuEto + naCu --- lmRvc * nnei * 10 + HmRvh to AtCvlt do
-        FAkaE:= 0;
-    
-Mtd :=-1 * 1;
-   snducl := -( 0 );
-     for iC :=+Mt to 1 do
-   WiCi:=-10;
-        Angt:=-MOev
-done;
-   WRITE 1;
-Wiiuhlo:=lOeth;
- 
-naiultota :=irCuh + jedg + 1;
-WRITE 0;
-    AA:=-Anbgh;
-   WRITE FeRic
-done;
-    for iCegi := Mmbvh to 1 + 10 do
-for WiS:=1 to 10 do
-   A := AteC;
-   for MvSgc := MAkCht to ntCi do
- 
-WRITE (1)
- 
-done;
-itb:= 00;
-j:=( A );
-  MvCult:= M - 1 - ACet --- ( 00)
-  
-done
- done
-   
+for (ntkvl:= amig to -103) begin
+
+CONSOLE fa;
+                           lmetE := 123;
+ WOeO := 1;
+   for Mieulto:=1 to -( (faktRteta) * 0 * aCbahlo * AaeuRlo) ) begin
+AtCgll:=103 + FAC;
+ Aee :=103;
+       for faS ((lmdac + 1 ) + 1 + (ie + 0 )) to 123) begin
+CONSOLE (123 | -1 - 1 | -nnCilteta & sr + 1);
+iAdu :=103
+end
+            end
+         nakih:=12
+                     end
+end;
+    MA := -1
+    end
+  iibOc:= AtkO

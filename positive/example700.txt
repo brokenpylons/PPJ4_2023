@@ -1,43 +1,40 @@
-AaCt := 0 * -ireuh;
-     WRITE WiRuhl;
-for seCt :=-10 to FAial do
-     FtdiE := Wikiclota - 10
-            done;
-    
-MAethl := 1;
-             Mrga :=WiRSht;
-   ACetE := 0;
-                    for iaiah :=HreChto to Atdghtota + -1 - WiRghl do
-      for A:= 1 to 1 do
- s:=-sCe;
-        faeg := 10;
-   
-sedv:= 1;
-                   for Fekucl:=0 to 10 do
+for ( HOeuitota := 1 to +saevi ) begin
+for ( HadgEte:= #10ABff * ACCuht to +#1fAB) begin
+           for ( COLC:=1 to -MrSC ) begin
+ACgi:= MiCOl;
+  seCOhto :=H;
+    MAC :=12
  
-i:=1;
-  A:=1;
-       AeCg := +faggclo
-     done;
-      
-AtCg:=M
-     done;
- Magvi := ieeuhlo - faivi;
-    WRITE 0 * -10;
-WRITE fad
-    
-done;
-            for HARvhlo:=A to 0 do
+end
+end;
+   F:= 0;
+       
+CONSOLE 0
+     end;
+    for (FeSS :=sae - Wrdvl to seRtc ) begin
+   for ( ireiite:= #f0ffff to FAiah ) begin
+ ArgCRtota:= iAev - W * +1;
+       for (COLCRto:= F to M) begin
 
-for fadvhto := 1 * faiSEl to M do
-         WRITE HaeuEtota;
-      faeSlte :=1;
+for (HiSSR :=1 - s to 00) begin
+ 
+CONSOLE 103;
+    CONSOLE fae;
+     CONSOLE 103 - 12;
+
+COLCE := #ffAf * AtCuR | Wrkah
+end
+    end;
+     
+faCg := 003 - 003 - HtR;
+ CONSOLE 103 - 123
+        end;
+  for ( iieOE:=+123 + 10 to FORa ) begin
+for ( Higt := M to #1fAfff ) begin
+
+FtSSito:= -COLSR;
+ saSv :=103
   
-for Mreal:= 0 to AOdac do
-       sCC :=Mtiu
-done
-
-done
-    done;
-Wikvlt := 0 * 0
-    
+end
+     end
+  end

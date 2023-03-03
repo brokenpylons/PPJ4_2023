@@ -1,22 +1,20 @@
-for fakSh := ( --0 + --00 * 00) to 1 do
-    WRITE (--(fakgh ) + MmR)
-   done;
-       
-WRITE (A + Wiktc )
-    for faSih := 00 to Mrigl do
-
-WRITE faeShto;
- A 1;
-MmiiEtota:=Feiac
-   done;;
- WRITE -nm;
-    for aA:=:= (AtRvct) to ( -lC + faCuit) do
-  for atkih :=-( ++1 -- ( -1 ) ) to jAdvE + (avCuEl ) do
-ambahte :=WiCa
- done
- 
-done;
- for ntkaclo WiegE to 1 + 0 do
- WRITE 1
-  done
+ for ( jmRtl := :=fag to jObegin
+    for Hve 1 + 12 to --lO) begin
+fadait:=1
+end;
+Ariul := (12 - Mtkul );;
+                 CONSOLE 00;
+  
+for (nOSgh :=1 to -Wvbvhlotabegin
+j:=:=12;
    
+AvC:= 003
+ end;
+         CONSOLE 12;
+ 
+for atC:=( 0 ) + 0 + 123 + 103 + -103 -- Mm + 1 * COLChleta | 0 to ( 10 ) ) begin
+   iaSihle:=12 * lAgS + 0;
+  CONSOLE -irCSRto - arCuRl - 0 + laRv
+  end
+  end
+ 

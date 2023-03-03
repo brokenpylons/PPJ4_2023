@@ -1,12 +1,10 @@
- faSg :=-1;
-  
-WidSEl :=Maiullo;
-  Ftgvit:=1;
-          ArSaht:=1 * -AadaE;
- sOeCE:=-10;
-     FtRSh := WiCC;
-for fak :=AreChl to 1 do
-      MAdtllota:= F;
-            WRITE 1
-     done
-                  
+CONSOLE Aikgi;
+     for (faCCc := AeS to 1 + 12 ) begin
+ ireih := 02 & COLO - ACetito;
+  for ( MOStc:= 1 * #1fABff to 10 ) begin
+    Mrdth:= 1 | 003
+              end;
+       FaiORte :=HAdih;
+Mteic :=0
+  end
+

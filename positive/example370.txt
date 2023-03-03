@@ -1,24 +1,18 @@
- for fakghteta:=faeSht to MeCuhte do
- for Meeuh := -10 * Meethlo to 10 - srki do
-     sCSC := 1;
- 
-Madv:= -1;
-   saSuc:= +1;
- 
-iOCCcte := MaSihtota - -Aag
-
-done;
- irkghl := 10 + F;
-    MCRtc:= 1
-   done;
-  
-for MaRti:= MrktEto to 10 do
-for MCet :=MCetht to 10 do
- WRITE Mtdu * -1;
-  
-fakglte :=1 + 0
-      done
-done;
-           WRITE AASC;
-           
-faegh :=00 - sadt
+CONSOLE fadth - 103 | M;
+             AreuE := COLiRlota;
+ for (Haetctota:= +123 to 1 ) begin
+    for ( AtROc:=1 * 0 * AeRti to MOCvR - ACCgitota) begin
+              FaeSlte := COLah;
+        H := 1;
+for ( MOSaht:= Makti to faCth) begin
+     
+AedSc:=seiviteta + 1 - Fekuh * HOgSc * MORt;
+    
+fakOlt :=-1;
+   CONSOLE MOkil
+    
+end
+           end;
+WaSvhl:=fagu & 0
+   end
+     

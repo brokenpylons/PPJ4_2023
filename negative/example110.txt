@@ -1,7 +1,6 @@
- for a:=( 10) + 10 to 1 do
-   WiRCEteta:= MOCah
-  done;
- WRITE 10 + +-((10 ) ) + iA;
-   FeRtc :=a;
-faeui := A
-    
+ for ( jvgal:= jt to ( ariaclota + 1 + 10 ) ) begin
+ WtevRte:=( ( 1) )
+  end;
+        M ((0) );
+ li := :=1
+       

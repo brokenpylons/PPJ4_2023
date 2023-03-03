@@ -1,40 +1,33 @@
-for HO :=( nnSg ) to fa do
-         nObgl:=M
- done;
-WRITE 1;
-for je:=10 to jngiE do
+ for ( lnCaR:=:= (A ) to 1) begin
+       CONSOLE 023;
+M := ( FaCal) & +COLgi | i;
+ srR:=#f0Afff + 00;
+CONSOLE COLglteta;
+         for ( COLuc:=M to -10) begin
+     for (ACbvctota:= 1 to faevR) begin
+             CONSOLE la
+                        end;
+ jOeSl:= #ffff;
+  saSOi:=Fv;
+ CONSOLE (+fa --------- +1 + sne );
 
-sAeSh := 1;;
+fae:=123 + 10;
+   for a:= MnkClto to 103) begin
+ A := j;
+          CONSOLE 103;
+   iig := 0
+end
+          H:= 1;
+     
+nee :=+HrSuRt
+         end;
+  smSOl:= 123;;
+  CONSOLE 12;
+CONSOLE faggi;
+faRCit :=12;
  
-H :=:=0;
-   WibSh:= (jO);
-Wi := Mn
-             done;
-                      neegite := := -1;;
-   WRITE 0
-       Avev:=-10 * 1;
-       lnSSh:= i;
-    for in:= --AnCSh - 10 + 1 + 10 + 10 to ( FvdScte -- FnRgEteta ) do
- FCeuhtota := Aai;
-     Widvite:=( (HAg));
-    
-for AreSh :=10 to 1 + na do
-  fag:=( (10) ) - WiSv
-  done;
-ireSh:= MCegltota
-   done;;
-   
-WRITE Atgglto;
-i:=sv;
-   
-for FCeuite :=1 to 00 do
+CONSOLE ---123 * -1 + #fffB * n + fadSi ----- AA
+
+end;
+   lCRvi:= 1 + AiR + 1 + jaeO
   
-iOb := :=( 1)
-  done;
-         
-WRITE 00;
-     for Wibg:=ardCh + ia to 00 do
-  
-MAiv := iObg + sm
-   
-done

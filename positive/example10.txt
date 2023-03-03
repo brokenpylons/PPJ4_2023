@@ -1,2 +1,2 @@
- WRITE 1
-        
+M := +Wtkgc * 1
+   

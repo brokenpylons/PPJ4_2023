@@ -1,61 +1,53 @@
-WRITE 1;;
-     for lekv := 0 to ( 1) do
-j:= -HOdiEleta;
- for MmbiEl := -10 to iAkuht do
-for AOdic:= MnRCile + 1 * (0) * Wiivhto * 1 to Widtito do
-lak:= 00;
-   itSvct:=--10;
-  WRITE 1
-            done;
-nASSi:=F
+for ( fakul:=+-123 - 12 to -ligi) begin
+  
+svkSl :=nCSOl + 1 | 00 | 1
+     naCChlo := 103;
+ Am:= 1;
+       for ( FvRgh:= -123 + 1 * 1 to jidtlt) begin
  
-done
-   for ate:=1 to HeSiitota do
-    WRITE AOkth;
-  WRITE 1;
+MiSah:=1
 
-Wieic :=00;
- MeC:=-1;;
- H:= 1
-        done;
-  WRITE AebvE;;
- srd:=(( 0 ) ) * AaC;
-                    M fa;
-      AeSg ( lv );
-    WRITE 0;
-ave:= 0;
-    i :=00;
-     Wieal:= Hngtil;
-     lCitc:= lCb;
-         WRITE Widiht;
+end
+        end;
+   MiS:= 123
+              
+for (iC:= MObtl to 1begin
+  HrSt:= (( 1) ) + 003 -- 1 * ( 10 ) & ( AveS );
+     for (WidvRteta := sedgl to -( 1) ) begin
+     COLvl := WOg;
+  FA:= irkChlota
+         
+end
+ 
+end;
+COLul:=023;;
+    for ( COLOh := ((-02 ) ) + 1 - 0 to Hmgaht + (nCCa ) begin
+       COL:= := --#1ffB;
+    for Mm:=12 to 1 ) begin
+CONSOLE (iag );
+AeeChl :=02;
+
+CONSOLE -10;
+
+fagOht --+103 & 1;;
+COLi :=-023
+  end
+       end;
+     for (avivh:=lrkaR & (Hieac ) to -MAe) end
+       Ark:=-( 1 ) * 103;
+  for ( WOgail :=( --123 * (123 )) to 1 ) begin
+      
+CONSOLE aidCl + sveS + MrdSEle + 10
+         end;
+ Wvb:= -lrg;
+   for (FtiOEteta:= 1 to 003) begin
+ i:= WedC
+
+end;
+        fagai:=WAegl;
+ CONSOLE -s;
+      ArdaEte aOeal
+ end;
     
-for lmeal :=:=0 to 10 do
-     
-faiSc :=M
-   done
-done;
-     Ha := :=:= 1;
-for F:=10 + 1 + 0 * 10 to 00 do
-      for ivkCc:=faetl to WiSgi do
-   
-for nndCc := 10 to ( -jtet) do
-  fa:=1
-   
-done;
-for j := fadvc to (Mmbtcto ) + (10) + 00 - Wig do
-FCRtl:= aeegc;
-  for faeS := ( lrCvlteta ) to 1 do
- 
-for F:= 0 to -10 do
-nrkall := --iCea;
-WRITE 1;
- faeu:= M
-  done
- done
-  done
-   done;
- Wie 1;;
-
-ACS:= (fa );
- Ftka :=Heduhte
-    done
+Mngt:= COLO
+  

@@ -1,15 +1,18 @@
-MtS :=-HeR + 1;
-AAki (1 ) * -1 * ACki * amCS + ( 10 ) -- 1;
-  
-for Arivc := j to 10 do
+ for an :=0 to aeeO ) begin
+       for ( jCe := Wei to 003 ) begin
+  for ( FmkiR:= 023 * AadSi to 1 begin
+ 
+jik := 12
+ end
 
-WRITE -((0 + (1 ) ) * AedaE )
-Ft:=jA * jegCEt;
-        lvRti:=ACk;;
-faiCl := 1;
-    WRITE MOkiil;
-      for AaSilte :=1 to WiSS do
-WRITE sCSCc;
-           Ae := 10
-       done
-        done
+end;
+      
+for ( AeevR:= HvCgit to 1 + AtetEte + WA * --02 ) begin
+   
+Fnk:= 0
+  end;
+      aOdSh:=sieCcte + jtivlte;;
+      WrdiE:=j
+   
+end
+     

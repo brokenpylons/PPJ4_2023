@@ -1,56 +1,53 @@
- M:= nnk;
- for Ateghteta:=1 to M do
-   for AmR := 0 to Mr do
-      MaR :=---WiSS + 0;
-  
-MmR:=1;
- MOeiE:=-1 * FtgCcle * ( -( -srSgh * -( 1 )));
-MabS:=AmeChtota;
-WRITE jae;
+ WCiCi:= naiiRteta;
+   for (MaCv:= 1 to 103 | nn ) begin
+  CONSOLE 1;
+avbt:=023;
+for Aigtc:=1 to 12) begin
 
-WiRvitota :=10;
- WRITE (Mvitltota );
-Atkahteta := :=10 * -0
-done;
-    WRITE ( 10 );
-WRITE (00);
-              Mvduhtota:=Wigalteta
-  
-done;
- for jrbg:= (0 + stSv) to MaCai do
-    for MrRSl := (1 ) to 0 do
-  ltCSh:= 1
-done;;
-      for jOC := 1 to HOktlleta do
-  iaeCht:= see;
-                        for jrkS :=s to 0 do
-imCCit := lneuh;
-  
-nACCEtota:= M;;
-  for an:=nm to M - 10 do
-
-nmgCht:=:=10;
-     WRITE 10
-          
-done
-   At:= ---lAkSE + M * sagC + 0;
-      WRITE (Megvhto * 1) + 1;
-for MvSChtota := (-Hm ) to -10 do
- WRITE 1
-    done
-  done
-       
-done;
-            
-for n :=00 to -AAkCcto do
- for jmku:= 1 to (1) do
+COL:=MaCCl;;
+ for jOSgltota := fa to -Ank + nvdSEto ) end
+    iaggh:= 103;
+ CONSOLE MCSvRto
+    end;
+      
+Mik:= 123;
+         WOeOh:=1;
+j:= := ( 1 );
+  M := faetile;
+   MAev := 12
+           Me:= M;
+     for (faighto:= 1 to -lmRu end
     
-for i:=(Aei) + 10 to -+svbiE do
-   WRITE 10
-   done;
- WRITE +-0 --- 0;
-      ledih :=i
-     done
-     done
-done
-         
+CONSOLE MnRa;
+          for ntighle:=103 + -103 - 1 + 123 to +023 * 1 | ( 103) - 0 ) begin
+        iniu:=1;
+     CONSOLE -103 + ( 1 * ieitc );
+     CONSOLE (12 );
+lOith:= MA
+ end
+end;;
+ 
+sACOh:= Am - Wv;
+    AaSu := -1 -- +0;
+  
+for ( COLth := Hv -- 1 -- H to 1 begin
+     CONSOLE A + #1fff * Hed & AtiS;
+    H :=-1;
+  ar:=0 * faiuR
+ end;
+   ivevcteta (A)
+    end;
+       for WrgSR:=12 to 1) begin
+   Mnkii :=( faiuEtota )
+     end;;
+   CONSOLE Meiulleta;
+ CONSOLE inC;
+ CONSOLE 1;
+    
+jeCaE := -10;
+   svdah:= 12;
+Anbv:=W | ACeOi + 1;
+ n:= 00;
+  CONSOLE (-MA - l )
+    end
+    

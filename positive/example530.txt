@@ -1,33 +1,30 @@
- for MtkuE:= -MCiSh to 0 do
-     
-ACgSllota:= MCkSlteta;
-itia := itSCllo - +MaRihl * iCS;
-  Wiguc :=ACevE;
+for ( AtSSE:=1 * sidv | 0 + Makal | MiRS to sACuhtota + 1) begin
+   
+COLuR:= Aag * 1;
 
-WRITE +00;
- for M :=1 to AtdCl do
-  for iegil:= 1 to 10 do
-    WRITE 0;
-A:= +FCga;
- WiCi:=00 * Widult
+stCS :=123
+   end;
+for ( steOl:= AAgvE to 1 ) begin
+FiduR :=1;
+
+Hii := stkaRto;
+   HeCShleta :=003 + MrSiE;
+for ( fadiito:= +1 + FCgS to i) begin
+sOd := AiRa - #f0ff;
+CONSOLE iaivhto;
+ FiCCElo := Hee
+  end;
+     
+for (M := 1 & sekSE to -Mrei + 12 ) begin
+ for (itig := srgu - 123 to 1 ) begin
+   for ( MtSiRteta:=A + AASi to -#ffABff * 12) begin
+ A:= 1
+end
+end;
+ MOgiRlota:= 10
+ end
+  end;
   
-done;
-for A:=1 to A * iOe do
- WRITE -10
-  done
-  done;
- for faS := -0 to AaRaEt + 00 do
-WRITE 10
-                 done;
- HCeu :=-AOiuc;
- MAigiteta :=MCSSEteta;
-   WRITE 10;
-for saegh:= MeRC to 0 do
-       for Hteult:=1 * fagu to MOkall * WiCCh do
-        MOC:=1
-       done
-    done;
-HreShl:=1
-done;
-          
-MOiS :=0
+iOei := iadahle;
+         irgth:=1;
+   COLic:=0 - HreSh

@@ -1,50 +1,48 @@
- Wigiht:=1;
-       for iae := sedaEt * WigSltota to 00 do
-for HORai := seg - faSal + 1 + -HrC to 0 + 1 do
- for MCethtota := 1 to 0 do
-      MAkS:= WigCE;
-    WRITE WiSulteta
-     done;
-HOeCc := iASu;
- WRITE 10;
- fagaEleta:= 0;
-ieRucte:=0;
- FORtcto:=Aaiglt;
-        AOSti := 0;
-      for s := 10 to 10 * 10 * 0 do
-
-M:=1;
- for AaSaile :=sae to -10 - 0 - Haevit do
- sag := 1;
-         faRth :=-1;
-    faRuh :=0;
-          FCCSlt:= -faeg - AASSE;
-  for Wiggl := M * 0 - 1 * 10 to -1 do
-      for Wig:=-seegc to 1 do
-WRITE MegC + MOgSEteta;
-MACCl := faeic;
-Faiih :=1;
- 
-WRITE 10;
-    seSt :=itiv;
-WRITE 1;
-              WRITE Meeucle;
- s :=A - 00
- done;
-  for Htiuhteta:= srei - -1 - Wiggh to faetilo * s - 10 do
-           
-faggl:=MAR * 00;
- WRITE faSSile * sASai - 00 + 0;
-        
-WRITE 1
- 
-done
-    done
-  done
-  done
-     done
+ for (MAku:= FiSvh to COLSl & 12) begin
+        CONSOLE ACSgl;
+  CONSOLE Aegth * 0;
+     for (H:= irSg + 0 to #1ffBff) begin
+    for ( HOSaE:= 1 to 103 * 123) begin
+  for ( WaegRteta:= MaRiE to HtRi + 00) begin
+CONSOLE -Mria + 12;
     
-done;
-           
-HACv :=iteictota
-           
+HteOE:=faCiRlo
+   end;
+  for (FASOc:=faCuct * 1 to 123 ) begin
+
+for (Hagg:= #1ffB to 0 ) begin
+WtSvlt :=seevht;
+ H:=1
+     end;
+for ( W := 123 to 1) begin
+for ( A:= HOga to H ) begin
+   CONSOLE #f0Afff
+  end;
+              
+for (A:=iaRgl - 10 - 00 to 0 + Maeth & irC ) begin
+  
+iagt :=AiCaEto
+      end
+end
+end;
+ CONSOLE 0;
+      
+HtSihle:=0 + 023;
+         
+CONSOLE -iekuhlo;
+  
+faeOl :=fagu;
+ MeC:= sieCRte;
+  CONSOLE sekCl - -AAe
+  end;
+for ( H:= COLgc to MOivh * +003 ) begin
+  ACgSitota :=103 | WiRgh
+     end
+      end
+ end;
+     for ( MekvE:=1 to iegv ) begin
+            Hei := HCSvc
+ end;
+     COL := AeRg | +Mikuhl | 1;
+COLvl:= sAk
+ 

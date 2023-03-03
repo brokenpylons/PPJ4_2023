@@ -1,45 +1,40 @@
- for Wiei := 10 to Mteuhto do
-   
-for H:= 00 to 1 do
-   iCgCi:=10;
-faiCht:=1;
+for ( HtCv:= 12 - 0 to fadvh ) begin
+  CONSOLE fagic;
+    for (faRCllo :=HOeuh * Meetllota to HtRuh) begin
+          
+MeSgcl :=#10AB;
+           CONSOLE 1;
+     AeCai := Wrgi + FakOhto;
+CONSOLE ArRti
+end;
+    for (COLOl := Areg to -Aeg - -COLvEto ) begin
   
-Medgc:= 1;
- for AAeth:=Widt * M + 00 to +FOSt do
-    for srRSE :=1 + 00 to 10 do
-     stRChlota:=FARtEl;
-  for Hreihlota := Ftkalteta + ied to 00 do
-    Atkil :=FOiu;
- Mtiahteta:= fakiilota;
-    A :=MrSv;
-for FORic:=MASvE to 0 do
-MteShleta:=00;
- iAeC:= MeSCh * 10 * 00;
-     for M :=10 to -1 do
+COLSR := FaduRleta + -W;
+         
+CONSOLE iCg;
+ CONSOLE sCiuh - faiih | -A
+    end;
+
+CONSOLE WiCOR;
+ 
+CONSOLE FOCgE;
+  for (MCiCE :=12 to 10 * 1 ) begin
+     HeStRteta := 1;
+ CONSOLE 1 * 1
+             end;
+
+Hieih:= COLai;
+                   for ( M:=003 to Heki & 12) begin
+   AeCORto :=HtdvR;
+CONSOLE AiggEto * HAeuR;
+   CONSOLE 10;
+Mrd := faiSR;
+A:=ACi & 1 | 0;
+        
+CONSOLE s;
+irRgh:=#1fABff
   
-itggElo:= MOithteta + sret
-              done;
- WRITE Mag * sedCl
- done;
-AASCil:= F + WiCth;
-                 
-Aeeuh:= 1;
-    HtiCh:=Fekgi
-  done;
-       
-seivit:=1 - 1 * 10
-     done
- done;
-   for ACiai:= 1 to 10 do
-       AaSCil := 1
-  
-done
-      done;
-  Wii := Haethl
- done;
+end
+             end;
+                 sARaE:=1
             
-Wikt:=-1;
-     
-WRITE 10;
-  i:=sAdClt;
-   Aad:=sORah

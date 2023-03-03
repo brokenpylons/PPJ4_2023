@@ -1,59 +1,58 @@
-Ardth:=0;
- Argai:= Wieai * 0;
-sCith := 0;
-           Wiivl:=MeCC;
-     s:= AAi;
-  for Widih :=seRiht to 1 do
-
-for Aeivito:= seeac to 1 do
- for faR :=AAgvh to 1 do
+ for ( s:=sOSgE to +faeC) begin
+              for (iiStc := #ffffff to #1fAfff) begin
+for ( AOea:=FiSSite to AaRai) begin
+for (FtSSh := COL to #f0fB) begin
+   for ( COLgc:=-123 to #fffBff) begin
+    CONSOLE 103 & 123
+end;
+AieiRte:= 123 * Wikuh
+end;
+ for ( Feeai :=1 to #f0fBff) begin
+ 
+FCkS :=#1fAfff
+end;
   
-for sOet :=WiCCc to MCea do
-for Wie := +1 - 0 to 0 * -1 * Ftighteta do
-         for s:= stgShte to 10 do
-       saiict :=0
-  done
-   done;
- for MaeShlota :=00 to -MaSvh - 0 * -MtSt + 10 do
+M := 023 * FieClteta;
+  for (MtCS:= HAiuE & Atevh to -023) begin
    
-for Medgcte := 10 * MCeth to seeghlota do
+CONSOLE Fteah;
  
-WRITE +10;
- iedSht :=-Aagihte;
+for (stetR := 023 + 103 to i) begin
+           faiil := 1
+ end;
+    saiSh:=003
+    end;
+     CONSOLE A;
+COLa:= M;
+ saSOlto :=AaROlt;
+FekuR:= 1;
+  for (FCkS:=1 + 103 to MCevc | FASgEt ) begin
+   
+A:=1;
+    CONSOLE 0;
+for (COLti:= -12 to AAC * WCeSh - saggl * 1) begin
+
+CONSOLE COLa
+  end;
+     
+for ( COLg:= Wtgalle - MAeaEto to 123 + itig) begin
+   CONSOLE 1;
+for ( iCgah :=-FeRil to +Aie) begin
+     WrSil :=12 * HOkO;
+HORvh := fagv;
+        
+W:=WieaE
+  end;
+        CONSOLE 123
  
-itdv :=Mrdvc - 1 + saev;
- ACeSE:= 00;
-        AAevhtota:= +sOeuclo;
-  WRITE iCeSh;
-Are :=faC * Wik
-            done
-         done
-  done;
-
-Haigl:= -FrC * 1 + 00;
-  i:= FeegE;
-   for faRgh:=10 * 1 to 10 do
-
-faig := 10 + 1 - 0
- done;
- for HAeth:= AtCti - -faku to AOSSE do
-         
-AagS :=10 * 0;
-        Hed := Faeglto;
-     F:=MeSil;
-       
-for Hrdv := 0 to 1 * -1 do
-        Ftiuh :=1 - AaeCc - Frevhteta * sCiuhl
-done
-
-done
-   done;
- MrRSl:= 10;
-                MAS :=FAkS + 1;
-faSShtota :=MAS
-done;
-WRITE FOevhle;
- WRITE Mte;
-Aeg :=ACkth * 0
-    done
-    
+end;
+    CONSOLE WARgcto
+       end;
+CONSOLE 0
+   end
+ end
+ 
+end;
+ CONSOLE 123;
+        HrgO := iOgah * +F;
+ACdiEle := 12

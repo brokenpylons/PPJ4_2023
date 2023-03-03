@@ -1,23 +1,19 @@
-for faeC:=-ArSulte - 0 to 1 do
-      M := Atial;
-  
-for Ameuite:= 1 to st do
-    for MeSgi:=(1 * 0 ) - -00 + ltgCh to 00 do
-  
-WRITE 1
-  done;
-for FedSEl:=WiiCh to (10 ) + WieSlt do
-  MOetht := 00;
-     for anCah:=10 to smd do
- j := -jtS
-done;
-av :=1
-       done
-         done;
-  HOC:= 1;;
-WRITE Amigl * ( inCt + nmRih );
+for ( COLScto:=(1) to (0 )end
+itdOile:= 0
+      iCith := HCbu
+  end;
+for ( AmiCil := (-1) + 003 to -1 ) begin
+ CONSOLE 00;
        
-sm:= 10 * 1
- done;
- lvSiite:=-fa
-         
+A:=---0;
+        
+sARghlo := l;
+ fabih := FAeuh;
+        Hm := A + nabOhtota
+    
+end;
+     CONSOLE Mt * FCRihtota + -Hmdi + 103 | smbSRt;
+CONSOLE 1 + 123;
+       AakSl:=MtgaE;
+            WvSul := #f0fBff;
+CONSOLE ( ieet ) + iOevRt * (FA) - 023

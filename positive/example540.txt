@@ -1,32 +1,31 @@
- A :=00;
-   WRITE 1;
-      faet:= 10;
-for FOSah := 00 to -faeCltota do
-       WRITE faetEte + WiiC + 1;
-     for HARih :=0 to WiRuht * AOdillo do
-WRITE +stCuh + Widg * HAduh
+ for ( Mriaitota:= 023 to 1 + -Feei) begin
+   sOka:=-Heig;
+   CONSOLE -MAeih * faSaEt | -WaeC;
+ for ( A:=AAevhteta | 103 to 1 & A & Aadt) begin
+       
+seeal:= 00
+           end;
+  
+COL := 12
+  end;
 
-done;
- for faSt:=-1 to +Arg - +fakult do
-              AreuEt :=FeRvi
-
-done;
-MrRShtota :=fakucte * HeRuh
-          done;
-      
-for s:= 1 + i to MtRtlle do
-
-for fadSh := -10 + 0 to Ftiuhlo do
- for FrCa :=-10 to MCkghle do
-            
-for MAdtile:=+00 to FCCSh do
-WRITE seeC;
-  Feka :=-MaiS + 0;
-M:=AaSuh
-   done;
-MCR:=0 * 1 * 0 - 1
-    done
-done;
-     irRth:=1
-done
+for ( HOdvi:= fag to 103 ) begin
+ for (COLOc := +sOCah - -023 + Feeg to -HedaR & COL * Fte + 12) begin
+CONSOLE sieScteta;
+  HrCgRtota :=0;
+CONSOLE steC;
+for (itC :=1 to 103) begin
     
+Hiev:=1
+      end;
+ CONSOLE ACdOR | 123 + 0;
+  
+HAiS:=123;
+ 
+sOSg:=-00;
+CONSOLE 1
+ end;
+        HCitht:= 0 | #1fAfff;
+        FeRgh := 1 | #10fB - -0
+ end
+       

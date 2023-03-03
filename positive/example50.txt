@@ -1,5 +1,4 @@
-H:=-WiCCht;
-for Wieui := fadCE to M do
- WRITE -WiRC
- done
-
+CONSOLE 0;
+      CONSOLE 12;
+    COLClte := 123
+   

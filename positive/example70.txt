@@ -1,4 +1,7 @@
- for FrdaEt:=MAki * WieS to saCt - 10 do
-   H := 0 + sCdSi - 1
-  done
+ Wekvi :=1;
+
+Aeea:=#10AB;
  
+for (FteSc:= 1 to Aakvi ) begin
+s := 103
+end

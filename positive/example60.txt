@@ -1,5 +1,4 @@
- AOdSh := F;
-    for AOe := ACdCl * 1 to A do
-WRITE MOk
+ for (WeRgc:=WCevll to +W ) begin
+ CONSOLE Maii
+             end
  
-done

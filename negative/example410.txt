@@ -1,26 +1,24 @@
-Atd:= 00 + WiSaEtota
- for arkuh := 10 * M to +0 do
- A := AOC;
-          Hteuhteta:= ( MteCh );;
-                    
-for faCacteta:=:= --1 to Fte do
-    Fneiilo:= 0;
-        WRITE 1;
-        WibS:= ( 1 --- 10)
- done;
+Wn:=( -amguit * (1) + 0 ) * 10 * 003;
+for (A:=(-sAg) to faiilte + #1fffff ) begin
 
-Arbg :=WiiChteta;
-      A :=iOdC;;
- i := -HmiCct
- a := 1;
-    WRITE lAegil;
-for j :=nARih to 1 - Am do
- Atkuh:=+1;
+for smRgEle := 1 to +1 ) begin
+                fakC:= #10AB | --( 0 * 1 ) --- 1;
+ 
+FAguR :=(( #f0AB + A));
+   
+CONSOLE aOgvc;
+    srR :=aiRv
+ end;
+              for ntSSh :=-srRtht to W ) end
+for (srbi :=nORth to 0) end
+  FeSi:=103
   
-lmbiEt:=:=-arbC
-        
-done
-        done;
-       
-aARil:= Feii * -1
-    
+end;
+  CONSOLE -Freuh;
+   Mnd:=#fffB
+  end
+    end;
+   COLtl:= := Wid;
+   
+WOCSh:=1 - 103
+  

@@ -1,5 +1,4 @@
- WRITE 0;
-  Ar := 0 + ntCiE;;
-   for MmRv:=0 to HvRSl do
-      s:=10
- done
+for nnR := -1 + +ArbiRt to 10 ) begin
+     CONSOLE 103 + (snR) | 12
+end
+    

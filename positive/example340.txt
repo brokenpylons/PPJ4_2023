@@ -1,19 +1,19 @@
-ArCS := 0 - 10;
-      
-HaCuc :=0;
-    Mtevctota:=MASChteta;
-FeCvct:=0 * 1;
- for steiE := AaCSh to 0 do
-   for MCei:= F * 1 * 1 to 1 do
- for MaSS:=1 to AACt do
-  ArkSEt:=WiStl * 1
-    done
-               done;
-  AOkac:= WieSc;
- MtRvll := Feeil - HtRv;
- WRITE 0 + FASC * 1;
-            AtSahto:= WiRah;
- s :=Widg + Ateth;
-Wikuc :=1 + 0
-    done
+sOdih := AOkiR;
+for ( faS:=0 to 1 * 103) begin
+  siSt := -COLClteta * ACeOi;
+ CONSOLE +12 | MaRCh;
+     for (saCOElo:=1 & -AiSih to iAegE ) begin
+         H := 02;
+    
+CONSOLE -00
+end
  
+end;
+         Aei:= MCe;
+   for ( AeSChte :=#10ABff - 00 to WidCR) begin
+     CONSOLE 12
+    end;
+                    
+CONSOLE +COLCR;
+  Aai:= seSSh
+         

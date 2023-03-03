@@ -1,44 +1,42 @@
-for MOgSileta :=lmdahtota to ( fae) do
-    for aCC := +00 -- 0 to sndu do
-avkght Mt
-    
-done;
-Wi:=-A;
-F -1;
-  lveC +0 * 0;
-        
-Faei Wie -- 1 * ( 1 + -(--(-1 ) * 00 ---- Aeggcteta) * ( 0 )) * Hngt
-done;
-         sabaE :=sre * l
-          l:= 0;;
-   for Hvdgh:=-(1 + (WiR) + MmiClteta) * MmRah to nvgvhlota do
-    
-jvdac:=M + Wigth
-           done;
-    for stCCi:=-( l) to Wiggit - 1 + ( (1) ) do
+ai:= 0;
+CONSOLE ( M);
+   Wrb :=liggc | 1;;
+       nvdilt:= 123;
+       
+for (COLu :=faeS to 10end
+  lOetc:=faSui;
+     j :=1 + 103 + 0
+  end;
+                   MtCOct :=0;
+sCd :=HngCht;
+         AeCS:= 1 & ( 12) | 10 -- 023 + (0 ) + #f0Afff * 1 + 103;
+     sr:=lngiR;
 
-for AtbSh:= jCk to 0 do
-              for arkvc :=0 to ( +-l) + Mmighl do
-WRITE 0 * jAdgE -- AnCSEteta + 00
-        
-done;
-j:= 1;
-  
-WRITE AmRv;
-          Wievi :=WietEt
-    done
-done
-        WRITE 1 + nC * +0 * faS;
-  A:= j;
-      MOCS := 0 + it;
-  lee 1;
-    jegSclota := Hr;
-              for AneSh:= 1 to 1 + --jrbvc do
-jebghte:=00;
-nmR:=-aOe;
-faRtEt:=--(j );
-   WRITE 10
-     AegS := 1 + 1;
-   AAevhlo :=1 * jvSShl - ( -aAduE -- 0)
-                 done
+jnCiE := COLtEto
+ for (fadOE := faC to --fa) begin
+  CONSOLE 1 + ( FCdg );;
+  AO:= (MOSt) * 123;
+ for (Am :=FnSClto * #10Afff to ++1begin
+           for (irbac:=srev + 103 to 10) begin
+faC := ArCtct
+            end
+     end
+                   for ( MndO := sngC to WeRgi) begin
+   faSCRtota :=12
+     for l := := lAkSi to 00) end
+     faC:= 1;
+ saRCl :=WObCR + ntkucte;
+     fa:=#1fABff;
+MOCChtota := 1
+
+end
+end
+end;
+    Wtd:= MCCtR;
+HvCCi:= 103;
+for ( FC := 1 to W ) begin
+     CONSOLE -( (-( #ffABff) )) - 123 * atd | -02;
+   fagCile := -COLuc
+    end;
+      CONSOLE -WAeCEteta - fadu
     

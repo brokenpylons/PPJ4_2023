@@ -1,54 +1,48 @@
- for A:=Maggct to Maea do
-        for AaSC:= MAeSEte * HOSvh + -00 to MCSC do
- for HCRii :=10 * ieSi to -MAeact do
-                   
-WiSuhto:=Wiivh;
-            Aai := fag;
- for AORi:= AAC to FCSall - Maea do
-     MOCvh := MrgC
-   done;
-        for AOeti :=10 to Wikii + irea do
-   
-for sak :=AediEtota - 0 to +MriChle do
-    WRITE iteShleta
-done;
-  WRITE 1 * 00;
-       for MCe := 1 to ArC do
-             
-WRITE 0;
-      faSah := 10 * Wietc;
-    WRITE A;
-    
-for fadai :=Wie to 0 do
-  for A := AOSil to -HeCah * HCeS + 1 do
-WRITE 10;
-     WRITE A;
-for iORai :=Wieg to 1 do
-  for FOdul :=10 - 10 * faSgh to 1 * 00 - 0 do
-      for Width:= 10 to MrC do
-fae :=iCeul - WiS
- done;
-FACacteta:=iCRvctota
-    
-done
-         done;
-    M:= iORvhtota
-done
-  done
-         done;
-    AOStEt :=Wid
- done
-    done
-  done;
-  HrgCile:= 10 * 10;
-     MteCl:= 1;
-  
-for Heithl := 10 to FaggE do
+for ( MiSvh:=0 & -WidOh to ACkOi ) begin
+seka := -FCdah;
+                  CONSOLE Ateg * iekti;
+ for (Mtkghl:= HOROE to AeRScl) begin
 
-AOe :=s;
-             WRITE MekCh;
- Atda := Wid
-  done;
-      Mteg :=iOdth
-      done
-       
+iieahl:= COLg + AiCgh & #10ffff + 1;
+        
+for ( MaevR:=-iaSii - -sOd to MOdSEt ) begin
+MiRtiteta :=+FARCh;
+    ieiai :=1 - WOei;
+  CONSOLE W - Mtii
+      
+end;
+          for (FCCght :=Mreacte * 0 to sCdCit ) begin
+CONSOLE AOdul + 1;
+FrSiht:=1;
+for ( stkacto :=Fagi to +1 ) begin
+CONSOLE sORvE;
+  faeORl := A * -12 - 1;
+       FrROc:= MAggh
+     end;
+for ( FikCE:=12 to 02 | -0) begin
+       for ( M:= 10 * 12 to 12) begin
+ 
+Hikahl := WAgt * Hegih
+ end;
+  COLt :=MieShl * FrkC - sagaEle;
+faRth :=+WAe;
+    stgSl :=103
+ end
+   end
+    end;
+   faiicle:=+023;
+   CONSOLE stktE * sek;
+  AtS :=10;
+   
+iaRS:=MCRShto - #f0fB
+     end;
+for ( MiSg := 10 to 103 ) begin
+     for ( HeiuR:=MCSvilo to 1 ) begin
+      
+CONSOLE 10 + 123 & Htd * 1
+          end;
+     
+CONSOLE Miitlleta * 103
+end;
+                iOCOE:= +00 - COLSc + 0
+          

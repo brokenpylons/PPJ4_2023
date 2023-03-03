@@ -1,48 +1,45 @@
- for M:= M to sAit do
-    MOS := Wii + s;
+ for (seeO :=Weiicl to F ) begin
+  for ( iidtR := 1 & #10Af to COLglte - 103) begin
+   CONSOLE #ffAf
+ 
+end;
+FAkihteta:=123;
+    Fidvit :=ieStht - -#ffffff;
+   WOSg :=10;
+ for (MtCgi:= Aretiteta to 103 ) begin
+ for (AidSi :=Feeth * COLSh to 003) begin
+   HCdCh :=AtSCcl;
+  for (AtCCcl := 0 to 1 ) begin
+    
+CONSOLE +02;
+WtdS :=123
+     end
+end;
+       CONSOLE 1 + +Atgu;
+           AteuE:= -1;
+ for ( COLOi := 103 - COLg to 023) begin
+CONSOLE WtdShl
+ end
+     end
+end;
+         
+i:=1 & iCRvit - 1;
+ for ( Aeggi:= +HOkv to -10 * -AOeOl) begin
+  CONSOLE +12
+  end;
+for ( MaSil:= 003 to FOevi ) begin
+ for (saS := 1 to faROh ) begin
+  MtgOito :=12;
+ 
+stiSEl :=1
+                end;
+         
+COLtct:=1;
+      for ( COLC:= #1fAB * Magah to 10) begin
+            MieuE:=A
+   end;
+     MrRCRteta:=02
 
-for sOggcte:= 0 to 1 do
-  Hekvh:= 1
-done;
-ACdSi:=10;
- Faevh:=10 + WiCgh * fadicte + -FaRah * fagiE - ArRuht;
- AAkSE:= WiiC * 10;
-   Meevhlo := 1 * 0;
-     
-for iteglteta :=0 to s * 10 do
-WRITE 1;
-  F := 1 + 1
-done;
-          WRITE +Freg - MOgvc;
-              
-Aeeihl :=FrCac;
-    for fadSEte:= seeCh to 1 do
-  
-HtRSh := -1;
-    for FeCgE :=00 to iAgaclo do
-          WRITE srR
-done;
- for iOSii:= -MaRCl to -0 do
-     sAkuht :=MCC
-done;
-  for M :=fag to 00 * sOiil do
- for HCeglte:= FAggclota to 10 do
- for HtSahle := iaRic * HrRthteta to iakg * Arki do
-      FCRu:= 1 + 1;
- for FOki :=sCdghteta to 10 do
-WikS := faeCl;
-    Aagu:=s;
-        fakt :=MOeictota;
-      WiCvhlota:=10
-     done
-     done
- done;
-      WRITE 0 + 1;
-  fakuh := 0;
-        WRITE HCeait
-   
-done
-done
-             done;
-seivh:=10 - faRu
-      
+end;
+         faeOht := 1 * +sAdtit + faRih - 1 & 10
+    

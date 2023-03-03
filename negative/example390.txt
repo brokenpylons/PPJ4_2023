@@ -1,19 +1,24 @@
-lvRC := la;;
-WRITE 0;
-     for AvRvhte := 1 to ntbih do
-
-st:= ( 10) + +aCi + 0;
-      s:=10;
-       
-MAkgE := -HtCCEt * 1
-iegvh:= fakilteta;
-  srRii:=MmRaE;
- snkvltota:=00 + imea * ( M) + +HCdCh + 1;
-   for HOeSi := 00 to fagSEle * AAevlto do
-argvl :=-( 00);
-  sCCCi :=MrRtct + 1 + Arggite * 1;
-   ardul :=sAiah * 0 - Hveui + 1 + (( (( M * -1 + AnCSi + n)) * 1 ) )
- done
-  done;
- M Ati
-         
+ jaSgE :=-0;
+  Mtevhtota:=1 -- -1;
+    for lniS:= 103 to 0) begin
+  stRa := :=Mievc;
+ F := 1;
+   Hrb := 1;
+ for ( nn:= -1 to --WmCS - 1) begin
+              
+for faeSRle:=0 to 10 ) end
+               
+i :=-#10fBff;
+       lA :=123 * HmkOElota
+  end;
+ aiSal 10;
+ HiRai :=10
+ end;
+MveOc :=sCbSE
+        end;
+for (Fvea :=:= := 1 to ACiah ) end
+    
+F:= ( lm );
+Hrbgl :=(ntgvc * -12 )
+     end
+  

@@ -1,45 +1,37 @@
- for WiSuh :=0 to 10 do
- WRITE steSl;
-      for Mtda :=0 to H do
+ COLC := 123;
+CONSOLE 12 & 1;
+ WedCcto:= 0;
+    for (HiSCi:= COLSE to 123 * AAdi * #f0Af * MaSihleta * -0 & i ) begin
+         WCk := s;
+ for (faStEt:=12 to ArRuit) begin
+     for (faeSR:=1 + faR to 02 * +irCah - +AteCil ) begin
+ COLvl:=MOeuh;
+ CONSOLE 12
+   end
+ end
+end;
+   for (COLCllota :=WaeCll + 02 to -0 ) begin
+     CONSOLE 0
+ 
+end;
+Wrdt := H * WiRShtota;
+ Atethle:=COLacle * +MCC;
+for (Mtiih := siSih to 003 | 1) begin
+ for (saSaEleta:= ACkah & Miktl | #ffABff to COLgl) begin
+                         saeSl := 103;
+       
+CONSOLE 12 + #1fff;
+ CONSOLE #1ffBff;
+   FrktR := iagg & faCul
+ end;
+    CONSOLE F * i;
+CONSOLE 10;
      
-ArkCc:=1 * FtRgEteta;
-    WRITE 1;
- for Wikthte :=1 to 10 do
-WRITE fakShlo * 00 + +FASSh * +Wiet
+HOkO:= 1;
  
-done;
-            for HCkCl := M + fagal to 10 do
-ACRv := iOe
-         done
-      done;
- 
-for AeSgh := 1 to 1 * A do
-  HAea:= Fegv
-done;
-    Meiiilo:= 10 * 1;
+MtCOcle :=A * -MOeCh;
+  Fai:= 1 + 10
      
-for steic :=-00 * fakCh to +00 + 1 * Arggi do
-        for MCda :=1 to 0 do
-         WRITE MOig
-      done;
- for Freic := srgaitota + 1 - 1 to Ard do
-
-MrRict:=1;
-             iakvh:=1;
-iagucle :=MAgv;
-                
-MASSh :=i;
-HCet:=1
-               done
-   done;
-    MeSS:= -0
- 
-done;
-
-WRITE +AOCvcl;
- for MeRCEtota:= AACact to HaCahteta do
-           
-Wiivh:=1
-    
-done
- 
+end;
+ steO :=COLtc
+   

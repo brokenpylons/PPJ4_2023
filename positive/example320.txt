@@ -1,15 +1,17 @@
- for sadillota:= 1 to fag * 1 - WiRacte do
-    iCSuhleta:=MaCv
-done;
-   for Wiiaite := faegh * 1 * 1 to Arivhlo do
-for AAdah :=Wieuhtota - 10 to 0 do
- Maea :=1;
-          WRITE -1 * 1;
- irdt:=WiiSiteta * 10;
-       
-Ftdui:= -Mtkuh;
-   ACSviteta:=10 - +Hrkthl;
-                     MCCait :=MadSi * 0
-done
- done
+ for (faCSRl := 00 * -FtgOEte to #1fABff - 02) begin
+      FaS:=sikul * Meivh * ACRg
+end;
+   CONSOLE 1 + WaCilt;
+            iOeuR := COLOht;
+faRChle:=MASvh;
+ 
+CONSOLE +02;
+       Aeiah :=1;
+   
+for ( MaSiE:= sreOE to 0 ) begin
            
+WOg :=02;
+       for (WagSi := Arduc to COL) begin
+         COLOlt := 103 | 00
+end
+end

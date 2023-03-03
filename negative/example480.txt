@@ -1,33 +1,33 @@
- faSCl:= ( 1 );
-for F:=0 to ivSvhlo do
+for ( HAdvR :=-amRai + (1 ) to #10ffff) begin
+Waii:= 003;
+     
+i ( 12 );
+             
+n :=Av;
+sadgR := := 123
  
-HtkCitota:= -aegS;
-for fadCh:=H to 1 do
- WRITE (1 ) + 1
-                 
-done;
+end;
+ faCOhlo:=aCS
+ for ( aCR -003 to a ) begin
+   MA :=jtiihleta;
+  FCeShte:=-12 - Mtg;
 
-for HegCl :=0 to 1 + 10 do
- faSSc := 0;
-  imCgEte:= i + AAeth;
-  Mvdvhlota :=--Hm;
-WRITE -lvCul;
- lObv:=MmS;
+A :=fa
+         end;
+ CONSOLE 1;
+ 
+AAbC:=(-02 );
+       for COL:=#ffffff & 103 to HA ) begin
+CONSOLE -(COL );;
+ fa:= (123 + +0 );
+CONSOLE -arivll + ( ( (faCv )) ) -- areCil;
+CONSOLE 1;
+ faiCh:=F;
+                
+lmi:= H;
+  CONSOLE 023;
+  faba := :=1
+  end;
 
-for F M - --A to 0 do
-for AAducteta :=-Heiucte - 0 * fabalto to 1 do
-    FAbvhle:= 0
-done;
- a :=-0 + (0 ) + 1;
-
-itgSh := MreShleta
-    done;
-  for AaitEte := FnCCh to AtRv do
-HO := (00 )
- done;
-   AvCill:= 0
-done
-    done
-   
-jOdCct:=fai * n
-        
+CONSOLE 123
+       

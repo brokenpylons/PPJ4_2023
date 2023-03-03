@@ -1,41 +1,34 @@
- i := 0;
-FrRgitota :=faduE + faRtltota - 1;
-   for s :=-Widthlo + FedvE to HrCth do
-
-for Wiki := Mtguc to ACgthle do
-  for MreiE:=-0 + -Ftegh to 1 do
-      WRITE Wikaitota;
-  for faCti:=sOS + -0 to 10 do
-     WiSSlleta:=Wievh
-done;
-    Atiih :=HtSSE;
-    WRITE -0;
-            sadt := HAgvi
-  
-done;
-           for Wida :=00 to 0 * sCe do
-WRITE MCg + sAgv * s
-  done;
-   for WiSuh:=WiCCh + 10 to 00 + 10 do
-  for AeRgh:= +Frivc - 1 to 00 + 1 * 1 do
-          for AekShte := MOkth + -1 to 0 do
-       Aeka := 0;
-
-WRITE AOdg * 10;
-               A :=-1;
+Wae :=0 | A;
+ Miggi :=103;
+              
+for ( FrCt:= COLScteta to -s - #1ffB ) begin
+  stkai:=#f0Afff;
+  CONSOLE 103;
+          
+for (sOia :=ArCt + Mtiuh + iOeOh to #f0ff ) begin
+   COLChlo := 10 * AtSth;
+           CONSOLE fakvc - 123;
+           for (COLSlleta:=1 * MCeSi to faCgE ) begin
+for ( COLCE:=1 + -103 * Ftit to -WORuRlota) begin
+   for (Wrig:=faCCEl + 0 to HORtE | 12 ) begin
+MOgCi :=AriuEleta
+        end;
+               iiSSl:=Ariih | 003;
+            
+fagait:=Mieg;
+ F :=1;
+   WaRShte := M
+end
+        end;
+CONSOLE 0;
+     for ( seSvRlota:=COLvRt to 1) begin
+     Meeiht := 00;
  
-Madgct := 0;
- Widtit := faRa * MCeCil;
- MCkg :=Htegh;
- faRvi:= A;
+AOea:=COLgctota | AOeuE
+         end;
+              iAdS:=0 * AekCh
+           end
+end;
+      HCgi :=+12 * -W;
+CONSOLE 0 - HtkgR + 0
  
-WRITE -ACegctota
-            done;
-     WRITE FOStilo
-done
-  done
- done;
-      MtCCEtota:= 10
-    
-done
-     

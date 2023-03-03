@@ -1,50 +1,51 @@
-for jv:=-srdaht + 1 * ( 00 ) to MOki do
-for A:=10 to Hrgaito do
-               FmgvE:= nARCito;
+ CONSOLE 10;
+     ja:=-1;
+ COLvcteta:=0;;
+  for (AaCvh:= 12 - +H to l) begin
+ CONSOLE 02;
+AAeOR :=AORuR
+          end;
+for ( lOe :=( 00) to 0) begin
+   MmCac := smCSite + 1 * (iOSCRleta);;
    
-svCCc -jmev - (( Hnbvcteta * 1 ) ) * j
-done
- WidS :=:=Wieah;
-      M := Angacl + 10;
-  MAbi -leiClto;
+CONSOLE 0 * s;
  
-Mad :=itgah + MmbC;
- AmgCi:=-faR
-
-done;
- for AASCcte := +-jeeSh to -(WiRgEteta ) * 1 do
-    s:=MCC;
+lO:=:=1;
+ jtRSl :=103;
+for ( COLg:=Ma to WveOhto ) begin
+COLO MietE;
+  CONSOLE 0
+   CONSOLE ( 12 );
+  for AOk fa * 003 to n) begin
+     for ( MC := 103 to jidCh ) begin
+MCbtl := 1
+  
+end;
+ WrbCc :=-12
  
-WRITE 1
-   done;
-for nabil:=:= A + 10 - MmSS to 1 do
-for faSuE:= MtC to -(--Wibahlota) + AASSh do
-WRITE 00;;
-   
-for saei := nACv to Fmegi do
-for FO :=0 - FCbgh + ( 0) to 10 do
- Mr:=1;
-    aa := sr
-  
-done;
-    WRITE (a);
-  
-aA := 1
-    done;
-      WRITE naguEl;
-     AmC :=-Am;
-AndCEtota:=:=lACShto - Ha
-  done;
-          WRITE 10 + ACgSit + 10 + -lmR * A + 1 + 10;
- for Mtk := -1 + a + 1 to iOkill do
-          
-for a 1 to 10 do
- jmCgl :=10 * 0 * 10
+end
     
-done
-   
-done;
-         
-Me :=nrbvl
-     done
-       
+end
+    for laeal :=#10Afff to (-10 ) ) begin
+   Freiit := (-103 & A);;
+MrSght := 1 + #f0fB;
+ Fne :=1
+end
+ end;
+   for ( i := (-jv - (n ) ) to COLuc) begin
+for iA:= 12 to FnSa) begin
+ a:=-jvCCi;
+ FA:=si;
+CONSOLE -F;
+  ACCgE := (123 );
+ HaiScl := -( Mievi * ( COL - -( Ar )) + -0 ) - AvRac
+       end;
+      
+WiCtll:=1;
+for ( AAbailo :=(F ) to 0 begin
+ CONSOLE #1ffB
+
+end;
+ Fmbuc:= lAiact
+   end
+

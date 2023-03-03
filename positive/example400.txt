@@ -1,29 +1,21 @@
-for AaSg := 1 to 0 do
+for (iaiSR:= Faeall * 0 + Madait * 1 + #f0Af * 1 to FCSiRt * sadu) begin
+for (COLah := 123 to 0 ) begin
+    saeOh :=#f0fBff;
+ for (ieS:=s + -103 to #10ABff ) begin
+         HreS := +1
+ 
+end
+end;
+ for (iaRSh:= 00 to COLah) begin
     
-WRITE faCC;
-  for stRv:= itSgilota to 0 do
- sAdtc :=0;
-  A:=10;
+F:=1;
+ MOeic :=1 - 1 & -0;
+ for (stkSRleta :=fagu + Wieuilota - -ACkSht to iidS ) begin
  
-for A:= 0 to 1 do
-         WiSuE:= 0;
- for MCevhlo:= AAeal to 10 do
-  ieRCct:= 1;
-
-AACuE:=i
-  done
-    done
-done;
-for AOSCc := 0 to 1 do
-       AtRtcl :=1 * -fakvi;
- 
-s := MCSCht;
-  s := 1 * 1;
-Aaiiiteta:=srSa;
-     stkS :=MOetEte
-     done;
-for Ariacto:=0 to 1 do
-srCCh:= Magtct * +faCiit
-     done
-    done
+CONSOLE ACiORt * 1 * FAdv
+ end
+ end;
+    CONSOLE 1;
+    CONSOLE MaRu
+      end
  

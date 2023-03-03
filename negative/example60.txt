@@ -1,5 +1,5 @@
-nrdu:= (1);
-      sOiuh:= 0;
-   Ate := := ( 10 );
-WRITE 0
+for ( s:=-HmiOR to -fabegin
+ atbCc :=123;
+ CONSOLE -srRi
+end
      

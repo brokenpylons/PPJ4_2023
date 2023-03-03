@@ -1,47 +1,41 @@
-for MCk:=0 to +1 do
-   WRITE faeCh;
- ACev := 0 - F;
-   WRITE 0;
-MaRth:= Makti;
-     
-for ieeah:= 10 to AAei do
- for MASg :=faetht * 10 + 1 to iOR do
-   
-for Aegv := 1 * 10 to 1 do
-   sedgEtota := 10;
-sOgSh := faeChl + sAkacteta;
-  FOiShlo:= 0;
-           for faeg:= -Widih - 1 to MAeic do
-  for Faiuhto := MtRgi to faegh do
-fae:=sCRg
-     done;
-    Wig:= 00 + Fag;
-for M:= 00 + Fedv to sAkCi do
-  Wika:= 1
- done
-     
-done
+for ( MARSh:= COLO to 1 * F) begin
+WaSaR :=10 * HrCgl;
+    faeCh :=fadSR - -1;
+ WeRuR:= iASOR * -0;
+ CONSOLE iAkv;
+for (Wtev:=1 * +1 to iaC ) begin
+for ( MOkuh :=-103 & 10 & AaCCllo to 12) begin
+       for ( MeSa :=H to 123 ) begin
+    for ( MtC:= -00 | 10 to 10 | AiguR) begin
+ MeSi:=FCeS;
+for (H:= +#10fB * srSgR to AikS + saeC) begin
+            for ( HeeCR := 1 to 003 + +103 ) begin
+       sOdvile:=10;
+  CONSOLE 0
+    end;
+        
+FAg := 0;
+     ACeOc :=MiggRlota;
+       for (Wik := HigC + 1 to 0 ) begin
   
-done;
+HigSRt:= #10Af;
+CONSOLE AAgClt * sCdict - 0
+end
+           
+end;
+      CONSOLE fakO
+               
+end;
+    CONSOLE WAevl
+end
+ end
+  end;
+ 
+irdgR:= +COLaR;
+    CONSOLE +sCSu * sriacte;
+Wietlte:= 0;
     
-WRITE sACihtota - 1;
-HaStEl:=-10 * 10;
-       
-sCeiElota:=1 + WiCvh;
+CONSOLE MtSO * A
+ end;
+ Feducleta:=AOCihl
   
-WRITE H
-done;
-      for MCk :=1 to 1 * 0 + 00 - 00 * AAith do
-for MCCai:= ieeaEto to 1 do
-         fag:=-i + Wiguh
-done
-done;
-       WRITE ieeCitota;
-     WRITE HekSi - 1 - Wii
-       done;
-    fagiE:= 1 - 10;
- ACkg :=-fad
-   done;
- WRITE 0;
-  fakSile:=1
-    

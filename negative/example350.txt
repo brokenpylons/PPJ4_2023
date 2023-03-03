@@ -1,19 +1,14 @@
- for avRg:= n to 10 do
-   nrdvE :=faitlle;
-   for iCethl :=+10 + +10 * ( MCgih + --1 + 1 ) + 1 to 1 do
-for lnCulto :=jrd to 1 do
-   WRITE 1;
-              for M :=(0 - FakiEto - sAS + -Ariah + (svd * A ) + 0) to (-lAeilt) - 1 do
-    s := 10
-  done
-  done;
-     for nA itiicle * (-F) + 0 to 1 do
-WRITE F;;
- WRITE 0
-
-done
-   done
-      done;
- 
-nri:=1
-  
+ for Ae := -02 -- MOe + lvRv * ir * 1 - F | nACg - (-123 + a) to 10 - (#1fABff + fab ) ) begin
+  Mve 12;
+    MCdaht := 123 + AAeicto;
+        An :=(123);
+    ACSOi :=A + A;
+ CONSOLE 123;
+nn := 02;
+           CONSOLE nne
+   end
+    for (fagSc:=103 to COLth) begin
+ iO:= (123 - 1 * 103)
+     CONSOLE 003 & Aviti | FeSgRleta & 103;
+      sne :=-AvCiE
+end

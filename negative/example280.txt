@@ -1,20 +1,18 @@
-inbg :=10;
-   jAbSht:=1;
-MCR := 1;
-WRITE faR;
-          for imdii:=ltith to 0 do
-   
-i:= (ae );
- ACdSEtota:=:=nAbvilota
-   done;;
-  for nakuhle:= -1 to Avku do
+ for ( Aab 003 to ( 103 )) begin
  
-for sad :=00 to WiCih do
-
-Mm := Mngi;
-                Wigt:= AOd + ieSt
-   done;
-                
-fakv:=1
-done
-        
+for seC := -WiCih to 10 ) end
+    
+lteOh :=FOeih
+ end;
+ for (F :=lOgti to s ) begin
+ for ( M:=-( -F) + M to -Mvgi ) begin
+   negShle:= ( He * +(#ffABff));
+CONSOLE F
+  CONSOLE 1
+    Mv :=nvCO;
+WmduE :=l
+  end
+       end;;
+   MC :=fab
+     end
+   

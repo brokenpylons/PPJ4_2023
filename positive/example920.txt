@@ -1,56 +1,46 @@
- AOegh := s;
- for WiCCh:=00 to -1 do
-
-for MrRuhtota:=Wie to 00 - 00 do
-   for itSSc :=iakgil to 0 * MCSCEtota * 1 do
+ for (faeSR := 123 * 1 to 0 & AakSc - Migt ) begin
+for (COLgE:= 12 to iCia) begin
+    for (sAd:=FrRuR to WtdORto) begin
+         
+CONSOLE 02;
+ 
+for ( itegE:= 00 * 0 | #f0fB + 123 & 1 to -1) begin
    
-M := 1 + 1 * MOeiht - 10;
- for M := 0 * 1 * 10 * AtdaEtota to 1 do
-  for faRg := -stdSc to 10 do
-
-for H:= AACgl * M to 1 do
-    AOSCile := HOiah
- done
-  done
-     done;
-      A :=1 + 0 + +F;
-
-MCguhlo:= iAdCite;
-        
-for FAitil :=0 to 0 do
-
-for ireii:=ArCacteta to HCdacle - 10 do
-   Frdahleta :=1;
-        
-for M:=1 to Feet do
-          A:= MaRa + Htguh
-               done;
-WigCEtota :=00;
-              s:=10
-done
-   done;
-   FAkih:= HACai
-            done;
- WiRa:=0 * Aeiah;
-WRITE M * 1
- done;
- MrRi :=FeSgi;
-   MaSC :=0
-  done;
+for (iaeOl:=003 * 1 to MAkOhtota) begin
+    AARah := #10ffff;
+  MreOite:=1 * #f0Af & 103 | 0;
+ COLgR := 1;
+   saivRl := 12
+            end
+end;
+     itdCl:=123
+  end
+end
+             end;
+        for (MCgacle:=0 to 02 ) begin
+        CONSOLE 1
+end;
+    for ( FOg := AtguE to #1ffB) begin
+    AOCaEl :=WrdSllo;
+ 
+CONSOLE +saSal;
+WrRac :=0
+ end;
+ MOe :=Mteg;
+WiiOit :=-023 | WAkaR;
+            CONSOLE 1 - Atdgi;
+ for (COLSi :=#1fAf to Fei ) begin
+ sCduh := #f0ffff;
+     for ( Wii :=#10Afff to sORS) begin
+CONSOLE 1;
+         Mrd :=WaSilto & sOeaitota - 0
+  end;
+ for (COLtR:= AAi to fakgh * AAeSh) begin
+MiSOhleta:=MCiOlte;
    
-for Ftkg := 1 to 10 * irS do
- for i:=1 + 1 to 00 do
-sOggl :=1
-    done
-   done;
-       for seithle := 00 - 1 to HAeg do
-  
-iagS := +0
-   done;
-M:=1;
-    WRITE iCRuht;
-      for HACC :=F to HrSChl do
-   WRITE Ftdv;
-            Wikah:= faRil * 10
-   done
-              
+Arkvht:=COLaRt + -A
+    end;
+CONSOLE #10ffff * -AidSh - HaCSh;
+           CONSOLE 103
+ end
+        

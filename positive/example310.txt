@@ -1,18 +1,18 @@
- for M:=1 to MCCSE * stei do
-   WRITE +faggE - iOiac - FCd;
-ireu:=MORa;
-    for faSiE := 1 - 1 + MreCi to 0 * srRSc do
- sreih:=10;
-    iACghl:=A;
+ ste := -1;
+  CONSOLE 1;
+   for ( faevhteta :=COLic to 103 & COLti) begin
+   CONSOLE MieSlteta
+
+end;
+i := itdahteta;
+ faRuht:=-02 - -1;
+          for (fakic:=HCRu & -1 to 1 + 1) begin
+CONSOLE AOgvlleta;
      
-saealte:= 10
- done;
-   
-iOkii:= 1;
- WRITE 0
-  done;
-   faCac:= AeR;
-for FadSE :=AeCvltota to Wid * F do
-         i:=10 + WiCihle - F
-         done
-           
+CONSOLE 12;
+ AOktht :=003;
+     WOkuR := A;
+ ititi := Mie
+   end;
+    MCkv := 103 * 1;
+  iegglt:=AOkShteta

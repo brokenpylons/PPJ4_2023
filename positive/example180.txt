@@ -1,11 +1,13 @@
-ACdC:= 0;
-        Maegc:=i;
-   
-HAe:=MCki + -10 + 1 + 10 * -A * seku;
-        
-WRITE ACkih + A;
- for iaeChto := MOCthle - +10 to +10 - FrCvhte do
-FCS := 0 * WigaE;
- WRITE Wii
- done
-   
+Htkglle := -MaeOi & 1;
+    
+COLg := 00;
+  for (COLth := A + HACClte to 12 ) begin
+ 
+A := COLOlteta;
+for ( irev :=00 to FCeg) begin
+         CONSOLE 1 - -103
+              
+end
+
+end
+

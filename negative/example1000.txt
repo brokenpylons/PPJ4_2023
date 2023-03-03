@@ -1,67 +1,58 @@
- nnkii := ( M + -AO - faeg);
-   for Aeetit := -1 * 10 to 10 do
-    
-HCegc:=:=Ardtl;
-       MeC:= AnSv + H + Wii;
- naiuh :=Wieih + ( fagih );
-    for Mm:=( 1) - Avgtll to 1 do
- 
-AOetit :=10
-        done;;
-   AvevEtota:= := a;
-      for saii:= (1 * 1 ) to MAdi do
+ for (HA:=iv -- 1 to 1) begin
 
-lAiSht :=-jreS
-        done;
-  Hr := HmR;
-   stdu :=lOCv;
-WRITE +Areu - aOea + 10;
- WRITE arRuhtota
-
-AmbSi:=1;
-    for nveuh:= M + --( 1 ) to 10 do
-      sn:=10
-    
-done;
- MtRiE := Anev
-MO :=la + HCRihteta;
-   for AvStc :=-(AnbaE + (l + 1 - -(( ( anbSE )) ) ) ) to Wi do
-   na:=fa;
-         nnkih :=0;
-         for jAit -Mag to 1 do
-      for A := 1 to 1 do
+aakuEte:=1;
+            for (j := lOgv + H to F) begin
+   CONSOLE 1;
+   MteOil :=Mnb;
+      
+W:=10;
+   CONSOLE ( (Mnbuh ) + 0 - Maeahlo * 1 + M + ( 1) + (HO ));
+  CONSOLE 1;
        
-Wieg :=:=:=ACeS;
+i :=Mnda + -iACaRle * -MOi
+  end
+          
+end;
+ HvdCR:=103 * 1 * 0;;
+   for HOetR:= lvRSElota to MrkSclo begin
+   for (MCSgllo:=1 & 1 * Aadi * 103 + HtSS to 103 + ArRvltota + 0 end
+       CONSOLE #10AB;
+ HvCvc:=AAd;
+COLgh := 00;
+ COL:=+sekOl + 0
+end;
+   for ntbv := +( 1) to #10fBend
+ for iabuE (Ma + 1) to 0) begin
+         COL:= i;
+for WigO :=:=:=:=iv to 00) begin
  
-sm :=1
+for ( iabai :=MrSul + Fi to faCClt ) begin
+   aid:= Aretlt + aObCE
+    end
+      end
+  
+end
+       for (WmRgRlota F - 023 to 0) begin
  
-done
-     
-done;
- for Fnitcl := 10 to 1 do
-    jAii :=1
-Mmktltota:=-1 + -00
-          done;
-   
-for ltiv := :=1 to iaR do
-  for lrevlto :=:= 0 to AAeuc do
- for Aeeal :=0 to MngCE do
- segg:= -inguc
+Fndv :=smRvlt;
+FvCOh := -#10Af;
+      COLvl:=:=Avdahlota
+      end;
 
-done
-  done
-       
-done;
-  iO:=F;
- WRITE 1
- aOdi:=MtdiEt;
-ltSi:= 0
-done;
+Mtdg:=--1 + 103;
+M := COLuR;
+  for FrdvE:=023 to faeSh ) begin
+       A :=1;
+   WObtit := 1
+end
 
-WRITE 1;
-  WRITE 10;
- Ardah :=ntSa
- done;
-s := (( 1 ));
-WRITE ( (00 ) )
+end;
      
+COLic :=Mt + 1
+     Fi :=(103 );
+      fagSllo :=-1 * ( 1 ) + 1;
+ CONSOLE 1
+ 
+end;
+ CONSOLE (sASgR)
+  

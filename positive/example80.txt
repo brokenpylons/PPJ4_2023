@@ -1,6 +1,5 @@
- FCeal :=10;
-   WRITE 0;
-       for s := iaCaE to +iaeSh do
- A:= Hak
-         done
-   
+ for ( faduRto:= AOeilteta to Mtiiht * iCeuR) begin
+CONSOLE 0
+end;
+Aidac :=#1ffBff
+  

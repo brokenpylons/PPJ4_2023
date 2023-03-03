@@ -1,56 +1,53 @@
-HrkaEte:= MaRu;
-     for i :=Mrkghlo - 1 to 1 do
-  for irSSi:=10 to -fak + 1 do
-     for FOgvhl := 10 to 10 do
-    s:=1 - Wiia;
-   
-FOSClt:=iedaElo
-    done
-     done;
-sCeah :=1;
-for A := 00 * s to -iORii do
+for ( faitl:=HORah * MOggito & 1 + -sadvc | #10ff | MeCCi to 1 ) begin
+   faiO:=12 + FeS;
+for ( Mievi:= 103 to 0 ) begin
+      CONSOLE 103 | sAiSR;
+  for (HeeCEteta:=-103 to 1) begin
+       for (Mae:= Wegtht to 1) begin
+  
+FrkaRt :=sOgSR
+ end;
+ 
+AriO:= HCia * Mre + +iCei + s;
+  CONSOLE 103;
+          for (WrSORto :=10 to -iaeOh + 1 ) begin
+     faSaE := 02
+   end
+    
+end
+   end
+   end;
+ for ( irdgite:= 1 + #ffABff to -i) begin
+ for ( MAkC :=AigtR to WOeah ) begin
+ for (ACegi :=HeeuR to 1 - 12 & AtSOR) begin
+   A:= 103;
+A :=10
+end;
+    
+iae:=A
+   end;
+ 
+fakuE:=12;
+     for (FaROc :=-12 - s to FOROctota | -103) begin
+    faeSEt :=sCea
+ end;
+ COLaEle:= 1;
+ for ( iASv:= 10 + 1 to #ffAf) begin
 
-HOeChl := Mretc;
-    for WidaEto:=-A to Wieth + -1 * 10 do
-s:=00;
-     WRITE AOkt * AOith - -MagSht;
-                                for Mrdul :=Wieglt * 00 to 10 do
- WRITE 00
-      done;
-WRITE 0 * 1 + 1;
- HeeCh :=1
- done;
-  for Arg:=1 to -WidSi do
-for ACeSc :=0 to faSSctota + 0 do
-  for Mrd := 10 to WiS do
-           Mriih:=HCSglteta * fagSE;
- for HOdgc:=ACkScte to 1 do
-           iaSS:=MOk + i + 1
-      
-done
-done
-  done;
- sCivi := Wiga + faiaEt
-      
-done;
-     FAggi:= MARC * +AASti * 0;
-   WidS:= -srig
-    done;
-
-for faig:= H to +1 do
- for Wiiuh :=itRCit to 0 do
-   Areal:= 0
-  done
-  done
-done;
-fadScto :=1;
-AOguE:=-1;
- for A:= faev to 10 * faith do
-  HACgcte:=WieC
-  done;
-Mreiit:=+A;
- s:=+0;
-                
-iagCi :=ACRSht;
-  HAevh:=faegh
+CONSOLE -00;
+  MORt := MAia - sCRtht;
+        for (saRih :=ieS to A ) begin
+ for ( HARtite:=fae & AOiCite to 12 - MAeCl + 10) begin
+           AeiO:= 12
+end;
+MiRaR:= 103;
+  
+HeeSi:=FiiCh
+end;
+     sCCac:= 1
+end
+           end;
+     
+Hrdui:=FAeCR;
+   fadv :=s + -#f0AB
  

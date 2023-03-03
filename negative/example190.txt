@@ -1,15 +1,13 @@
-for lnbvEto:= 1 to nrivc * lniCi do
-    
-a :=1;
- A:=0 -- ar;
-
-jrSvhleta :=+(0) + 1
- done;
- an:= Wi;
-for AOCiht:=-10 + 1 * 1 to 0 do
-    ACeSl:=-1 + ( (0) * FvSvlteta )
+CONSOLE Mnei;
+       for (AidC :=--123 -- A + #f0fBff to 1begin
  
-done
-  
-WieSlle:= := 1
-      
+a:= Ateg
+ AC:= 0
+ end;
+jnbSi:= aiS;
+   for (iebicleta:= 1 to sOevE ) begin
+ AaeSh:= ligtc
+    end;
+        Me:= 1;
+   W := AOeuh
+   

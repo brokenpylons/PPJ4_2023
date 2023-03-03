@@ -1,53 +1,52 @@
- for FOkvl := ACdihte to 1 do
-iOdah := := 1;
-     
-for Aa := (lORucl * 00 + ( ( ( (fadS ))))) to (0) do
-for WiS := -lnduEt to 0 * 0 do
- F:= 1;
-  aek:= irdalte
-  done;
+ for COLu :=FeCC + (Wa ) * -( M ) + lA to Hmibegin
+CONSOLE 00
+   for ( svkgEte:= ii to 1) begin
+   for (HekSh := -MCe to 12 begin
+   snRtR:= #ffff;
+MaS:= ( -M );
+aCe 10;
+       iOegR:= Mvdu;
+    jni +10 & AiSt * #ffAf;
+  im :=MAitht;
+ CONSOLE H;
+       CONSOLE (#10Af );;
+           for (n := fab to COLah) begin
+CONSOLE AAbic
+     end;
+    for (jaRaEteta :=lnS to 10) begin
+ COLgh:= 0 * 0
+end;
+  CONSOLE 123;
+
+HekCc := 1 + Wmg
+  end;
+   for ( WietE := -M to 0) begin
+     arei := M;
+       CONSOLE W
+end;
+ for ( WOCS := 123 to 1 ) begin
+         CONSOLE sO;
+jO:= 12;
+   ArgShto:=#1fABff -- 1
+end;;
+      
+AiR := lrkShtota
+ for (stROl := := amC to 1begin
+  CONSOLE ja
  
-lti :=Wiegc
-   done;
- nACCl := 1;
-      HAiClto:= 1 * 0;
-               
-for sCCCc:=(fa + -+--10 + WiCih - -0) to (0 + 1 ) do
- faea:= Av * 1;
-nvSg:=10;
-            for HA := 00 - s - Mebvhte to H do
-Anggito := fa
- n ankthle
-    done;
-ia :=00 * AvCChl + anCah + FeSvc;;
-      for lneahte:= fadCcte to 1 do
- faeC := :=1;
-       segic := 10;;
-  WRITE 1;
-for a :=1 to -10 -- nC do
- Wi := ++0 + AeRCi;;
-lniv:= --MCei;
-for nOdact :=00 to 10 do
-  for AOSth := 00 to neRahlota * s do
-     A -10;
-       
-lO:=Mt
-  done;
-   HO:= lAi;
-         An :=MvRg;
-   stegEte := 1 - 10 + 1 * faRtEtota
-         done;
-     
-leiuc:=faeCEt + -stkgl;
-im := := -10
- done;
- F := 0 + 0;
- 
-nae:=FndChl + a * 10
-done
+end;
+sn := :=103 * nOC;
+
+nie:=:= 1;
   
-done;
-
-Hvkvhle:=00
-   done
-
+jiiSh:= #fffB
+   end;
+    jvRS:= ( ((123) & ime ));
+  CONSOLE 12;;
+       
+aA :=12;
+        CONSOLE -Ai;
+        Mi :=( 023);
+  sveih:= Me;
+             MCeu :=-1
+           end

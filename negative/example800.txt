@@ -1,46 +1,46 @@
-WRITE (-((1)) * WiR * nve);
-    inki:=jAC;
-WRITE Wievclota;
-     for M:=00 to 0 do
- WRITE ( 00);
-  for jv:= aOdSl to Febghl + aCbucte do
-Aaia:= -HedSlto + 10 * 1;
-    sneSi := 1
-   done
-       for nm:= AAi * -a to jtdi do
- Wib:= faR;
-             for M:=jmgC to Wieih do
-for steal :=-10 to 1 do
-      Widac:= 1
-           done;
- WRITE -1
-            
-done;
- for faduh :=--1 + -aAdCilota * ( Hn ) + jOkih - 1 to ( j ) do
-                  for nAiCcto:= 0 to jrk do
-   for iACvhlo:=1 + ( sagvclo) to MvSuh do
-WidS := n;
-  
-Ft := fabict
-             done
-   WRITE 1;
-l:= iAgCl
+ AaRth:= 1
+    CONSOLE -AA;
+    Ae :=MmRthtota;;
+           for ( AeSgi := 02 to A - -Wneuit) begin
+CONSOLE 1;
 
-done;
-       ntSg:=j;
-  Wib:=-0
-     done;
+laeahlo:= 123;
+
+for (jed:= 103 to 10) begin
+         FA Mr;
+   lveOlt :=1 + ( jaStiteta);
+Avb:=ACbtRl
+    end;
+    FOCih:=( i) * (1 ) + -(103);
+  iee := 10 + #1ffBff;
+        for HAetl := FA to 1 ) begin
+ sreu:= +AvCv * 12;
+s :=n;
+   for ( FOiiE:=:= COLCi to (-10) - (023 ) + -12 * Migg + l * itRg + +003 ) begin
+         for ( A := MAdCi to Ambegin
+COLic:= 12;;
+  for ( ntgal:= H to Wr ) begin
+   nCithleta := 02;
+
+laku:= anitht;
+   
+FeRvlto := FmeaE | 1;
+   W :=1;
+       
+sACiht := 0;
+CONSOLE 1;
+   COLahte :=j * --( jrbi ) & #1fff
+end
+      
+for (MAgO := -0 + He - -WiRah to 003 ) end
+     COL:=10
+    end
+ faeict:=1 + M
+end
+         CONSOLE 10
+      end
+ end
+        
+CONSOLE 1
+end
  
-for jeiCcto:= 00 to 1 do
-   for AO :=-1 to ( neeCEt) * 0 - 0 + Mte do
-    WRITE 1;;
-lagv:=0
-  
-done
- done;
-WRITE 0;
-   smSu:= := WiS;
-  
-WRITE -10 + iAivhto
-      done
-          done

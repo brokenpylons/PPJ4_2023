@@ -1,46 +1,33 @@
- WiRghl:= 0;
- WRITE +10;
- for F:=1 to +0 do
-                MeduEtota:=00;
- for MOggct:=1 to 1 * 1 do
-   
-FAR := 0
-  done
-       
-done;
-  for stRii := 10 to FCkCi do
-    
-Mtd :=0;
- Haga :=1 - 1;
-     
-MAe := HOeSE;
-                
-faeal:=0;
-  for WiC:=i - ACkSil to -10 + +0 do
+W:=1;
+ 
+AiCvcl :=-COLC;
+            AteO := 10;
+      Meegit:= 00;
+for (HOdiR := Wie to 1 * 00 ) begin
+  WtkgRle:=-#1ffBff;
+for ( s := 0 | 123 to 10 ) begin
+      CONSOLE COLvl - 0 - FASall + W;
+              CONSOLE 1;
+  for ( WtegE :=1 to MCRvhtota) begin
+Aaiict :=+Fieuh
 
-MCeS:=Arduct;
-   for sadC:=-Argtite to 0 do
- WRITE HAdChto;
-     for AaRtht:=WieCE to sOk * faSa do
-MACCEtota:= 0;
-        WRITE 10
- done;
-      Wieti:=MCkvhte
+end
+ end;
+ CONSOLE FtRt + 0;
+Mtdghleta:=MiktEtota;
+  Arkv := iadthlo;
+     for (FtCth:=12 - AaCuh to 10 ) begin
+    for (WtCOlle := 00 to -itSaR ) begin
+       CONSOLE 1
+           end;
+                       
+MARvl:=-MaCvRlo * 1 + 123
+  end;
+   CONSOLE +1;
+          
+for (AaktRtota:= 0 to #f0Afff * -MAeul * iACCE) begin
+    COLaE:=10 - MOCvh - iAeaEtota;
+  CONSOLE 1 + 1
+  end
+ end
   
-done
-   done
-  done;
-      
-for itigE:= 1 to 1 do
-i:=MAeCl;
- WikvE :=-iOCCEteta * MOkuct;
-
-WRITE -1 - +1 + Wig;
-    
-for HCit:= 1 to -ACev do
-    WRITE MCSthl
-  done;
-   iCducteta:= 1;
-Aeggh:=MteChl
- done
-            

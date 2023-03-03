@@ -1,34 +1,30 @@
- MOS:= ACki;
-   for M:= AaRic - 1 to +1 - -MASCcleta do
-   for AOdah:=10 to iACthleta do
-  WRITE +MtgS + 10
-done;
-for AARS:=10 to +1 do
+ CONSOLE +12;
+      CONSOLE 00 + 1;
+   CONSOLE AOCCRto & 0;
 
-for MegS:=1 to -Htd + 1 do
-   for AAe :=10 * AtSvc + 0 * -1 * i to i do
-
-faRvl:=Megiiteta;
-   MrS:=00 - +Wigacl + 0;
-     srkv :=1
-      done;
+COLaht:=003;
+         for (sAe :=+103 to 123 ) begin
+M :=HaSuR;
+ for ( Aig:=#10ff to 00 + 1 * 123) begin
+CONSOLE 12;
+      CONSOLE Atgvcteta + H + +1 & HCiCR
+ end;
+      WCgvhl:= 1 | 103;
+   for ( MCCgh := M to 123 | #f0ffff) begin
+               CONSOLE faStE;
+     for (WCeul:= AeiuE to 1) begin
+CONSOLE iCka - -02;
+          sORucteta :=123;
+    faetc := F;
  
-WRITE Hrgahte;
-  
-HAgC :=-1;
+CONSOLE saSC
+  end;
+ MrCthte := 1 - 1;
+   
+COLi:= faCt
+       end;
+CONSOLE Htegi - FAS;
 
-WRITE faCg;
-     for fak :=AeeS to 1 do
-         Atgulte :=faCac
-  done
- done
-          done;
-FeRghto:=HeSalt;
-for MaSgh:= ArSSE - 1 to -HeSC * +10 + 0 do
-          WRITE MeSSE;
- 
-HriS:=+1;
-  faguhteta :=-10
-                  done
-  done
-  
+CONSOLE #10fB * 123
+  end
+            

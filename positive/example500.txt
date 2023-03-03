@@ -1,34 +1,29 @@
-AOkuh:= 1 + MOevlte;
- 
-for iakCh := Meeac to 1 - Mrgv do
+ HeRvE :=FtC;
+  for (AOia := #10fB to -1 * Aai * -0) begin
      
-WRITE +00;
-    for faSa := 1 to 0 do
-    AOSt := 0;
-    WRITE FteSll;
- for Mai:= 10 to MCSgl * Aaggclota * ireC do
-sedgl:= +1;
-   for MteSEte := 1 to 0 + sAei do
- for ieRSl :=1 to -Aeivhtota do
+AaRS :=faSuc * 123;
+           
+CONSOLE 12;
+ for ( srCCi:= -Aei to AORtRleta + #1fff) begin
+   HCeaR:=-103 * iOdvc
   
-AtdiE:=+i
-       done;
-      for Htevht:= iAiC to 10 do
-iOkuh :=Haeac;
-   iegC:= iaR
+end;
+
+for (HaSv:=-1 to COL + 1 ) begin
+  for (iieait:= MrRa & AAg * -Mieuht & -Mtgii to Aiiuh) begin
+for ( HACth:= 103 to 1) begin
   
-done;
- fadal:= Ariv;
-    for iAdil := 0 to s do
- 
-WRITE srRal;
-       Haiilte := HCCvc;
-    WRITE 1
+CONSOLE MCk + -103 + 12;
+fadCc := AAk
+   end;
+CONSOLE 1;
+    
+COL:=sCRall + iCka
+        end
+   end;
+       CONSOLE 1;
+      MCRgE:=+WAiaEle
    
-done;
-  AOCahte:= 0
-done
-  done
-  done
-       done
- 
+end;
+           CONSOLE Wei & 1
+       

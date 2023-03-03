@@ -1,5 +1,7 @@
- Mv := MnSt + ( 10) --- iOb;
-  
-WRITE 10 + 1 - 00 - ( lA * 1 ) * 0 * (AC) * (Wikull + leC );;
-iviui := := 1
- 
+CONSOLE 10;
+
+atb :=:=:=003;;
+               CONSOLE WARCile;
+ CONSOLE M;
+      Mmea:= 103;
+   lmeac:= COLvR

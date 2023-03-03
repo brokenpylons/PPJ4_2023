@@ -1,37 +1,35 @@
-for faeui :=1 to 1 do
-   iaCSE:= WieChte;
-        Mak := -Areail;
-       
-Arkti:= FOet
-         done;
-     WRITE 1;
-     HeSti:= AOeult + HOd;
-for Wieihle := HCeC to AAgSc do
-   WRITE 1 * Ateuhtota
-done;
-   for ACgSl := 10 to 1 - stii * HOSuh do
-Fait:= FtCCh
- 
-done;
-        for ieCgEte:=Fadghleta to +MCS do
-    WRITE -ACeullota
-         done;
- for sASi :=MaSiEl - F to Mek do
-     MOSuE := 10;
- MaCC := sretEt;
-  faC :=+HaCtlleta;
-     WRITE -MeiCE;
- for faeSht:= 0 * MOkS to 10 * 10 * 1 do
-   for Wiiui :=10 to WikSl do
-WRITE 00;
-   for MACSE := sAevl to 1 + HOdal do
-    fadCc :=10;
-               Madvh:=0 + stkvh;
- WiRt:= 1 - MeRgc
- 
-done
-         done
-      done
- 
-done
-      
+ for (Htdui :=-Madg to 123 * WCktile & 10 | 123) begin
+    CONSOLE Feev;
+    for ( FAdC := 1 to 10 * 02) begin
+for (MOeSR := 1 to WtSg) begin
+       for ( WCRCRl:= #10ffff to MARul) begin
+           for (WiSii:= -02 * MidvE - MtRS to -iAdihte ) begin
+ faeahle:=103
+end;
+     
+Mteuhlota:= -10;
+     for ( ArR :=srCt to 0 ) begin
+        faeO := 1
+ end;
+  for ( AOdv := 0 + Fidal + 023 to faguE ) begin
+  Fakuc :=HrCgctota - 1;
+   fakCc := MOevR;
+ W := seSiEt
+end;
+  
+faCtRleta := 1 * 1;
+ CONSOLE -1;
+MaeiR:= 1;
+CONSOLE 023 * -1;
+ MOCOl:= 1
+  end;
+
+siCCh :=MrgC
+  end;
+ Aeetile:= 1 - -stgO;
+  CONSOLE WACgh;
+      CONSOLE iAgvh
+  end
+    end;
+CONSOLE 1 + #1fABff + #fffB * iAgSE
+   

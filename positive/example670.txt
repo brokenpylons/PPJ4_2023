@@ -1,40 +1,35 @@
- for HakCh :=1 to MaRgh do
-    for sOevE :=WiiSh - 1 + s to 0 do
-       for i:= AaSi + 1 to -1 do
-
-WRITE iAea;
-    Fteuh:=Mrkvh + Wiktit * Ark
- 
-done;
-              for Wiiti := i to Are - A do
-  for FAiih:=1 to 10 - faCic do
-        
-WRITE M - +FtSi - FCeul;
-for MriiEto:=1 + 1 to Ariah do
-faeaEtota:= 0 * MCigcteta * 10 + 1 * iCgScl
-
-done;
-    for faCilt:= 0 to HCRah do
-for iekClt:= 0 to 0 do
-
-HAeClto := 0
+ for ( ACdi := 10 - 12 to AOgg ) begin
+ MtgOl:= Aegghteta * #10ffff & 12
+end;
+ for ( MAStlte:=123 to 10) begin
+     Fregi:=MigOE;
+    for (WAC :=Aai to WCCvE) begin
+    Wteu := WeSgh;
+    CONSOLE Mae
   
-done
-    done;
-     faCtile :=-Fag + 10;
-  WRITE 1
-   done;
-
-for M:=HASC - 1 * A to 0 do
-   sOii:=10 - 1
-done
-       done
-  done;
-             for FrC:=WiCg - 00 to iaR do
-   AAeg := FteChl;
-   
-HrkSl :=faeS * 1 * -HAeSc;
-   AaCtEteta:=1
-  done
-        done
-       
+end;
+for (Atktc := #10Afff * AiCO to sAC & 123) begin
+  for ( HeSOc:=00 to irCuh) begin
+    MadS :=WeeCh;
+CONSOLE 1 * -1
+end
+             end;
+for ( COLil:=WOdSl to +1 ) begin
+M:= -sCduhto;
+MteCR:=-sOeth;
+   HCSuhte := #10AB
+            end
+   end;
+    ArRORto:= 10;
+            for ( iieO:= 003 to 0) begin
+  
+AtgO :=123 - #10fB;
+        sACSclo :=WeRO
+    end;
+            for ( Hae:= 12 to 023 * 123 | #f0ff) begin
+      
+CONSOLE -1 * COLi
+ 
+end;
+COLOiteta := HOeillota
+  

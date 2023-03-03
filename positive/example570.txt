@@ -1,32 +1,32 @@
-MtCtl:=0;
-  iteC:= i * HCgC;
- i:=HOk;
-  
-WRITE HCgih * Widvhle;
+ for ( FiSthto := 1 - 1 to COLiEt & MCRvRto ) begin
+ for ( MAivElo :=1 + 12 to -0) begin
+       FtiOh:=ACRCi * 023;
+   
+for ( COLglteta := faitct to A) begin
+   
+for ( A:=10 * 00 to ACSv) begin
+    CONSOLE +10;
+       WrRShl:=1 + +1;
+for ( AakSc:= 1 to Hak | +COLv * +s ) begin
+MaR :=12 + faRaito;
  
-WRITE AORuh + Widvh - iOeii;
-         for A:=MaCv * Maegh * MOet * 10 * 0 to Meeul do
-   WRITE iCda
-  done;
+for ( sektctota :=COLuE to fadCh - HeeSc ) begin
+
+CONSOLE iiCCR * #f0Af;
+ MeSic :=103;
+          
+COLgcte := iAgS
+      end
+        end
+end
+ end;
+  CONSOLE Wrei + 0 + fakOitota
+      end
+end;
+  CONSOLE FaiOR;
  
-AaSii:=-i;
-       Frgihteta :=+WiiSE;
-              A:= 10;
-     MaeSl:= FOdtcteta * 0 + i + 1;
-        for MrdSElota:= 0 to 1 do
+iOCO :=-AAkult;
+ AAC :=123;
+    iCeillo :=iAdv;
+  MrSi := 1
  
-MrkiE:= Mriai;
-          FCeallo:=saiaE
-      done;
- 
-for MekvEtota:=ArRCEt * ieeuite to AACal do
-          Wikt := 1
-     done;
-for iteic :=1 * 10 to -00 do
-    MAiiltota := Mrdillota;
-     F := 10;
-    FreS := -1;
-    MCRaclota:=1
-        done;
- Wieg:=fadClto
-     

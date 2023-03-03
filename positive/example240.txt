@@ -1,14 +1,15 @@
- MCRtiteta:= -1;
- 
-sreal := MegCite + MAiu * faCS;
-      for FOdg := 00 to 0 do
-Mrkahto:=Aeeght;
-     Wik:=0 - 10 - 00;
-    for MOkuEte:= 00 + 00 to A do
- for FOd:= 1 to Hegaiteta do
- fadSE := stgCht * 1 * -1
+for (H:= 123 to HOkac * 023 ) begin
+    
+iCeghteta :=0;
+   
+Atgah:=103;
+      WrR :=MtevEl & 12 * Atggh - 1;
+Mteg :=#ffAB - 1;
+AaiSlle:= sAkuR;
+for (Wegu:=1 to COLtEle ) begin
+            CONSOLE #1fABff;
+                 CONSOLE 1
+
+end
+ end
   
-done;
-   AAeuE :=10
-  done
-     done

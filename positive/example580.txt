@@ -1,31 +1,33 @@
- for Wieal := Aret to Haeu do
+MARCh:= 1;
+          
+MeiiR := 1;
 
-for Widgl:= -iCRg to MCSahlota do
-faCthlo :=Wieict + faSii * faigElo;
-       MASul := 1;
-  A :=MaSti * 0;
-   AASii := Megac
-done;
-   for MCeSE:= Aektct to +fae do
-   
-HCRiileta:= faSSi;
-   for Atethlota := Widv to 0 do
-  itigltota:= FOgClte + -1
- done
-      done;
-  for Ard := 1 * 1 - Aadvi to ArdCh do
-    WRITE iOdu * 10;
-MrCuE:=H
-   done;
-          MCkgi :=10 + Hega;
- for AtguE := MrRCc to itdS do
- MtdCh := 10
-    done;
-   for faS:=ACevcteta to -1 + faithte do
-        WRITE 10;
-    WRITE MCeSil - FrRt - iriShteta + fad
- done;
- WiSthleta:=0
+MOSu:=1;
+    faRu :=1;
+ WCeg:= #f0ffff;
+       for (WtRuh := 023 * 12 to 1 + 103 - 02) begin
+  
+for ( M:=-itgiRte to sACu) begin
+          
+HCSaht:= 00;
 
-done
-   
+HOi := -#ffAf;
+  CONSOLE Wrd;
+       for ( iekScteta:=1 | HaRact to 02 + COLg ) begin
+     for ( WCSO :=Atetite to AteaR ) begin
+     ieS:=1;
+  CONSOLE +AOiCR - #10ABff;
+ 
+MegSct := -MtSt;
+      
+Wikvh:=Mikah - fai + 103
+    end;
+ for (sCgOht := F - iAegito * 00 * 023 to seevite * MCdO ) begin
+               faCuc :=iiRg + 0 & 103
+    end
+  end;
+      MrCi := 10
+    end;
+ 
+WeiS := -123
+ end

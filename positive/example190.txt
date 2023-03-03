@@ -1,12 +1,8 @@
-AreCc:= FCggEte;
-      
-for MAeSitota :=HaRah * fagi to 00 do
-    
-for M:=-faSCh to stSth do
-          MCkiEto:= 10 - 1;
-  Wieu:= HCi
- done;
+ ACCC := AeSuct;
+         sASCh := fadac;
+WidCR := HeeSEto;
+ for (ArdtEtota :=103 * MiCOlleta + 00 * 1 - AOgCc to iCiilto + -12 ) begin
+       FeCSEte:= #fffB - 123 & 123;
+ CONSOLE 1
+         end
  
-M := MCSu
-       done;
-   MCRa:= -1 + 0 - +Aedv

@@ -1,54 +1,48 @@
-for ArS := +Ate to -00 + 0 * 1 do
-WRITE 1 * FtRicle
-     done;
-      for i:=0 to fagghto do
-           srRvilo :=Ardu;
-for seCic := -MCeShtota + Haea to 00 + FtggE + -M do
-         for Medt := faCa - WidCctota to Ftgihtota do
-    for Mtkg := 1 to fad + seevlto do
-               
-fakac := sri - +1;
-     
-for iekS:=10 to 1 * AOCCh do
+for ( sAkvE:= faSalte | 1 * iOkCEleta to COLg) begin
+for ( Hrdai := F to #1fAf) begin
+ Fre := COLuh + WeRC;
+          for (saeSh:= 02 to 123 ) begin
 
-for ieSg:= ACkgh to Aret do
-  
-iCkt:= AteCht;
-           sOdvhle := AOeacl;
-      srivh:=10;
-FOet:=0 * 1 - 1 * AAdgE;
- HeS := Hre;
-AOdS :=Mtggi;
-WiRah :=1;
-  
-faRihto :=10;
-  WRITE 10
-  done;
-     sCSCE := s;
-      WRITE FCkahteta
-       
-done
-      
-done
+HrS:= -1 & 10;
 
-done;
-  for MAeShteta :=MAeCh to 10 * 0 * stSC - itgSct + HORCht do
-     
-Mrktct := WievE
-   
-done;
-F :=1;
-WRITE -iCkvil
-         
-done;
-    for FARah :=+Hrgthlo to 0 do
- WiRthteta:= ite
-    done;
-      A := 1;
- iCgai:= Meeuite + 10;
-         
-A:=-s;
-  
-AtSuh := 1
-done
+CONSOLE 123;
+    iAgih:=Writlte;
+          
+for (MreSh:=W to faSvR) begin
+   sretE:= faeOc;
+ sASSc:= -MiSic
+        end;
+ HrCu := 123;
+for (fadghto := MtRiE to MieuEl * 1 & #f0ff) begin
+       COLgh :=AtCOEteta;
+CONSOLE ACgCh
+
+end
+       end
+  end;
+iikSl :=MAggEte - MrSgc
+        end;
+              for ( W:=COLaht to 123 ) begin
+  for (COLglt :=faCii to AOSvh) begin
+iAkicle :=1
+ end;
+   for (faCOl :=123 to #f0ABff * #fffBff) begin
+     CONSOLE -MaRvc
+    
+end;
+   for (HrCiElota:=srgS * +MOg to AOgu ) begin
+            Areiht := 1;
+H:= 023
+  end
+end;
+          Atigcteta := W;
+
+for ( faeOh:= -MCRvc to Mriuhte ) begin
+
+for (sAgiR:=HCRC to 1 ) begin
+            
+A :=ArRihteta
  
+end
+ end
+      

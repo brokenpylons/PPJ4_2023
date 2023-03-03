@@ -1,2 +1,4 @@
-WiSt:=HakuEt - 1 * +0 * 10
-      
+MCkuEteta:=A * 1;
+   
+CONSOLE 1
+ 

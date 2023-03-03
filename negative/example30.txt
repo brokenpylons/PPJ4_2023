@@ -1,4 +1,3 @@
- jvg :=( 1 * 0);
-        
-s 10
-  
+ AtiSit := 1;;
+   smetRte:=10
+ 

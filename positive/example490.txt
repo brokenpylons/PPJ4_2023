@@ -1,30 +1,27 @@
-iaSa:=1;
-  AeCih:=+10 - Wie;
-   for FORil :=00 to -00 do
-       for AtgSh :=0 * AriCEt to sOCiht do
-     WRITE 0;
-           for HaRCl :=0 to stigllota - 10 do
-     
-HASii := 10 * MOR;
-F:=0
-    
-done;
+for (MOevh :=1 & #ffAf - 003 to 1) begin
+           
+iCkS :=Mretht;
  
-WRITE MOg
-           done;
-        
-MeRSh :=-MOdvh;
-
-for FCgClto := HCSacl to 1 do
-   for A:=HaeSlt to s * Aei * AOSvcleta do
-    for Fek := MACgi to 0 do
-   for sOk :=Mreih + Wikii to faCSEtota do
-WiSC:= 0 * 1;
- HtRth :=fagS
-        done
-   done;
- MCdu:= 1 * ACkghl + 1
- done
-  done
-done
+i := 123;
+ FiCictota:=MCevh * #1fABff + 1 | ieSvl - #ffAfff;
+ CONSOLE 103 * 12 - stSv;
+for ( iievlleta :=+Ariahteta to 10 | HiCal) begin
+ Madal:=-s
+   end
+  
+end;
+    MOSv:=123 + -1 + 1 + 1;
+ for ( sOeCh :=103 to COLgi + 0 ) begin
+ Fteait :=MtdO;
+ MtgiElo:= MtRuh;
+   ACiiR:= i;
  
+srRv:= 00 | sAgC;
+AORSilota :=srCSi * 103 + COLu
+   end;
+  WCC:= MaRg;
+             HAdgil:=0;
+   
+itkgilota :=s - 1;
+ MaRORtota := irkuite
+  

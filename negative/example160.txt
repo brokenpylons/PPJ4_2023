@@ -1,11 +1,13 @@
- WRITE -10;
-             
-for lekuc :=00 to (0 ) do
-Wi:=aOdil
-done
+COLC :=arS;
+  CONSOLE 1;
+ fad := 103;
+    
+for FAdvilo := 1 to iACui + F & 1) end
+M:= :=-fabCl + lAggh;
+ CONSOLE jOkOile;;
   
-for n:=:=-00 to -( smk * 00 ) do
- Atiul := (MrRiht );
-      WRITE stkCh
-  done;
-HrSvi:=( ( 1 ) )
+MmeC := s & 123;
+H:= WnkiR
+ 
+end
+     
